@@ -1,0 +1,2507 @@
+[
+  {
+    "name": "ai-content-policy",
+    "category": "AI & Technology",
+    "description": "Creates AI-generated content policies with disclosure requirements, quality standards, and review processes. Use when standardizing how your business produces AI-assisted content."
+  },
+  {
+    "name": "ai-ethics-policy",
+    "category": "AI & Technology",
+    "description": "Creates AI usage policies for businesses with transparency commitments, bias mitigation, and disclosure guidelines. Use when establishing responsible AI practices."
+  },
+  {
+    "name": "ai-use-case-finder",
+    "category": "AI & Technology",
+    "description": "Identifies AI automation opportunities in business workflows with feasibility assessment and ROI estimates. Use when evaluating where AI can save time and money in your business."
+  },
+  {
+    "name": "automation-workflow",
+    "category": "AI & Technology",
+    "description": "Designs automation workflows with trigger-action sequences, tool connections, and error handling procedures. Use when automating repetitive business processes."
+  },
+  {
+    "name": "ad-copy",
+    "category": "Ads & Paid Media",
+    "description": "Writes high-converting ad copy for Facebook, Google, and LinkedIn with multiple creative variations, audience targeting suggestions, and optional ad graphics via Canva. Use when a user needs paid advertising copy, wants to launch ad campaigns, or needs creative variations for A/B testing across ad platforms."
+  },
+  {
+    "name": "ad-creative-brief",
+    "category": "Ads & Paid Media",
+    "description": "Creates detailed ad creative briefs with visual direction, copy variants, dimensions, and platform specifications. Use when producing ads for any paid media channel."
+  },
+  {
+    "name": "ad-performance-report",
+    "category": "Ads & Paid Media",
+    "description": "Creates ad performance reporting templates with ROAS analysis, creative insights, and optimization recommendations. Use when you need structured ad campaign reports."
+  },
+  {
+    "name": "ad-spend-calculator",
+    "category": "Ads & Paid Media",
+    "description": "Calculates ad spend budgets based on revenue goals, conversion rates, and cost-per-acquisition targets. Use when planning how much to spend on ads to hit revenue targets."
+  },
+  {
+    "name": "affiliate-program",
+    "category": "Ads & Paid Media",
+    "description": "Sets up affiliate and referral program structures with commission tiers, terms and conditions, affiliate onboarding materials, and promotional asset guidelines. Use when a user wants to launch an affiliate program, needs to recruit partners to promote their product, or wants to create a referral incentive system for existing customers."
+  },
+  {
+    "name": "affiliate-recruitment",
+    "category": "Ads & Paid Media",
+    "description": "Writes affiliate recruitment emails, landing pages, and onboarding materials to attract partners. Use when building or growing an affiliate program."
+  },
+  {
+    "name": "affiliate-terms",
+    "category": "Ads & Paid Media",
+    "description": "Creates affiliate program terms and conditions with commission rules, prohibited methods, and termination clauses. Use when launching or documenting an affiliate program."
+  },
+  {
+    "name": "bundle-creator",
+    "category": "Ads & Paid Media",
+    "description": "Designs product bundles with pricing strategy, margin analysis, and promotional copy. Use this skill when a user wants to create product bundles, increase average order value through bundling, analyze bundle margins, or write promotional copy for bundle offers in their e-commerce store."
+  },
+  {
+    "name": "cross-sell-strategy",
+    "category": "Ads & Paid Media",
+    "description": "Maps cross-sell opportunities with product pairing logic, timing triggers, and messaging templates. Use when you want to increase revenue from existing customers."
+  },
+  {
+    "name": "discount-strategy",
+    "category": "Ads & Paid Media",
+    "description": "Plans promotional pricing campaigns with discount types, timing, margin-safe guardrails, and promotion calendars. Use this skill when a user wants to run a sale, create a promotional offer, or plan seasonal discounts without destroying their profit margins."
+  },
+  {
+    "name": "facebook-ad-campaign",
+    "category": "Ads & Paid Media",
+    "description": "Plans Facebook/Meta ad campaigns with audience targeting, ad creative briefs, budget allocation, and testing strategy. Use when running paid ads on Meta platforms."
+  },
+  {
+    "name": "google-ads-campaign",
+    "category": "Ads & Paid Media",
+    "description": "Plans Google Ads campaigns with keyword groups, ad copy variations, landing page recommendations, and bid strategy. Use when running paid search advertising."
+  },
+  {
+    "name": "high-ticket-sales-page",
+    "category": "Ads & Paid Media",
+    "description": "Writes sales pages for premium ($500+) offers with extensive social proof, objection handling, and application CTAs. Use for high-ticket products and services."
+  },
+  {
+    "name": "linkedin-ad-campaign",
+    "category": "Ads & Paid Media",
+    "description": "Plans LinkedIn ad campaigns with audience targeting, ad formats, lead gen form design, and budget recommendations. Use when running B2B advertising campaigns on LinkedIn."
+  },
+  {
+    "name": "lookalike-audience-plan",
+    "category": "Ads & Paid Media",
+    "description": "Designs lookalike audience strategies with source audience selection, percentage tiers, and testing framework. Use when planning paid ad targeting to find new customers similar to your best existing ones."
+  },
+  {
+    "name": "media-buy-plan",
+    "category": "Ads & Paid Media",
+    "description": "Plans paid media budgets across channels with allocation strategy, expected ROAS, and testing roadmap. Use when managing ad spend across multiple platforms."
+  },
+  {
+    "name": "podcast-ad-script",
+    "category": "Ads & Paid Media",
+    "description": "Writes host-read and pre-produced podcast ad scripts with natural integration points and tracking URLs. Use when creating podcast advertising spots or sponsorship reads."
+  },
+  {
+    "name": "retargeting-strategy",
+    "category": "Ads & Paid Media",
+    "description": "Designs retargeting campaigns with audience segmentation, messaging by funnel stage, and frequency caps. Use when re-engaging website visitors who didn't convert."
+  },
+  {
+    "name": "sales-page",
+    "category": "Ads & Paid Media",
+    "description": "Writes high-converting long-form sales pages using the Problem-Agitate-Solution framework with benefit stacking, objection handling, social proof sections, and urgency elements. Use when a user needs a sales page for a digital product, course, service, or membership that converts visitors into buyers."
+  },
+  {
+    "name": "tiktok-ad-script",
+    "category": "Ads & Paid Media",
+    "description": "Creates TikTok ad scripts that feel native to the platform with trending hooks, UGC style, and spark ad recommendations. Use when writing video ad scripts for TikTok campaigns."
+  },
+  {
+    "name": "tripwire-offer",
+    "category": "Ads & Paid Media",
+    "description": "Creates low-ticket tripwire offers with pricing strategy, delivery mechanism, and upsell path. Use when you need to convert leads into buyers with a small first purchase."
+  },
+  {
+    "name": "youtube-ad-script",
+    "category": "Ads & Paid Media",
+    "description": "Writes YouTube ad scripts for pre-roll, mid-roll, and bumper formats with hooks, messaging, and CTA variations. Use when creating video ad scripts for YouTube advertising campaigns."
+  },
+  {
+    "name": "ab-test-plan",
+    "category": "Analytics & Data",
+    "description": "Designs A/B test plans with hypothesis, variants, sample size calculations, success metrics, and statistical significance criteria. Use when optimizing conversions or UX."
+  },
+  {
+    "name": "analytics-setup-guide",
+    "category": "Analytics & Data",
+    "description": "Plans web analytics implementation with event tracking, goals, conversion setup, and dashboard configuration. Use when setting up Google Analytics or similar tools from scratch."
+  },
+  {
+    "name": "attribution-model",
+    "category": "Analytics & Data",
+    "description": "Designs marketing attribution models with channel mapping, weighting logic, reporting recommendations, and implementation steps. Use when understanding which channels drive conversions."
+  },
+  {
+    "name": "benchmarking-report",
+    "category": "Analytics & Data",
+    "description": "Creates industry benchmarking reports comparing business metrics against standards and best-in-class performers. Use when evaluating where your business stands versus peers."
+  },
+  {
+    "name": "cohort-analysis",
+    "category": "Analytics & Data",
+    "description": "Creates cohort analysis frameworks for understanding retention, revenue, and behavior patterns over time. Use when measuring how user groups perform across their lifecycle."
+  },
+  {
+    "name": "conversion-funnel-analysis",
+    "category": "Analytics & Data",
+    "description": "Maps and analyzes conversion funnels with drop-off identification, optimization priorities, and benchmarking. Use when diagnosing where prospects are lost in your sales process."
+  },
+  {
+    "name": "customer-lifetime-value",
+    "category": "Analytics & Data",
+    "description": "Calculates customer lifetime value with segmentation, prediction models, and retention investment recommendations. Use when determining how much a customer is worth over time."
+  },
+  {
+    "name": "data-collection-plan",
+    "category": "Analytics & Data",
+    "description": "Plans data collection strategies with tracking requirements, privacy compliance, storage recommendations, and implementation steps. Use when building your business data infrastructure."
+  },
+  {
+    "name": "data-dashboard-design",
+    "category": "Analytics & Data",
+    "description": "Plans data dashboard layouts with metric selection, visualization types, refresh frequency, and user-focused design. Use when building dashboards that drive decisions."
+  },
+  {
+    "name": "feedback-analysis",
+    "category": "Analytics & Data",
+    "description": "Analyzes customer feedback data to identify themes, sentiment patterns, and actionable improvement priorities for product and service decisions."
+  },
+  {
+    "name": "grant-report",
+    "category": "Analytics & Data",
+    "description": "Writes grant progress and final reports with metric tracking, narrative updates, and financial accounting."
+  },
+  {
+    "name": "impact-report",
+    "category": "Analytics & Data",
+    "description": "Creates annual impact reports with metric visualization, beneficiary stories, and donor recognition sections."
+  },
+  {
+    "name": "kpi-dashboard",
+    "category": "Analytics & Data",
+    "description": "Sets up KPI tracking dashboards in Notion with metrics, targets, status indicators, and trend tracking for any business type. Use when a user wants to track business performance, needs a visual dashboard for key metrics, or wants to replace scattered spreadsheets with a centralized KPI view."
+  },
+  {
+    "name": "marketplace-fee-structure",
+    "category": "Analytics & Data",
+    "description": "Designs marketplace fee structures with commission models, premium tiers, and competitive analysis. Use when setting or restructuring pricing for a platform business."
+  },
+  {
+    "name": "marketplace-metrics",
+    "category": "Analytics & Data",
+    "description": "Defines and tracks marketplace health metrics including liquidity, take rate, GMV, and supply/demand balance. Use when measuring and optimizing marketplace performance."
+  },
+  {
+    "name": "metric-definition-guide",
+    "category": "Analytics & Data",
+    "description": "Creates metric glossaries defining how each business KPI is calculated, tracked, and interpreted with formulas, data sources, and ownership. Use for team alignment on numbers."
+  },
+  {
+    "name": "nonprofit-board-packet",
+    "category": "Analytics & Data",
+    "description": "Creates board meeting packets with agenda, financial summaries, program updates, and vote items for nonprofit governance."
+  },
+  {
+    "name": "prompt-library",
+    "category": "Analytics & Data",
+    "description": "Organizes and documents reusable prompt libraries with categories, variables, and quality scoring. Use when building a structured collection of AI prompts for your business."
+  },
+  {
+    "name": "saas-metrics-dashboard",
+    "category": "Analytics & Data",
+    "description": "Sets up SaaS metrics dashboards tracking MRR, churn, LTV, CAC, expansion revenue, and cohort retention. Use when building or improving subscription business analytics."
+  },
+  {
+    "name": "sentiment-analysis",
+    "category": "Analytics & Data",
+    "description": "Analyzes customer sentiment from reviews, social media, and support tickets with trend tracking, theme categorization, and alert recommendations. Use for brand health monitoring."
+  },
+  {
+    "name": "social-impact-measurement",
+    "category": "Analytics & Data",
+    "description": "Designs social impact measurement frameworks with indicators, data collection methods, and reporting templates."
+  },
+  {
+    "name": "survey-analysis",
+    "category": "Analytics & Data",
+    "description": "Analyzes survey results with statistical summaries, cross-tabulations, trend identification, and actionable insight recommendations. Use when interpreting survey data for decisions."
+  },
+  {
+    "name": "brand-architecture",
+    "category": "Branding & Design",
+    "description": "Designs brand architecture frameworks (house of brands, branded house, endorsed) with naming conventions, visual relationships, and portfolio management. Use when managing multiple brands."
+  },
+  {
+    "name": "brand-audit",
+    "category": "Branding & Design",
+    "description": "Conducts brand audits evaluating consistency, perception, competitive positioning, and improvement recommendations across all touchpoints. Use when assessing brand health."
+  },
+  {
+    "name": "brand-identity-guide",
+    "category": "Branding & Design",
+    "description": "Creates comprehensive brand identity guidelines with logo usage, color codes, typography, imagery style, voice, and application examples. Use when documenting your brand standards."
+  },
+  {
+    "name": "brand-positioning-statement",
+    "category": "Branding & Design",
+    "description": "Crafts brand positioning statements with target audience, category, point of difference, reason to believe, and competitive context. Use when defining how your brand stands apart."
+  },
+  {
+    "name": "brand-refresh",
+    "category": "Branding & Design",
+    "description": "Batch updates text and imagery across existing Canva designs when brand elements change, searching for affected designs and applying find-and-replace operations across all confirmed files. Use when a user has updated their brand colors, fonts, tagline, logo, or contact info and needs to propagate those changes across multiple existing Canva designs."
+  },
+  {
+    "name": "brand-tagline",
+    "category": "Branding & Design",
+    "description": "Generates brand taglines and slogans with positioning rationale, use cases, and A/B testing variants. Use when creating or refreshing your brand's tagline or slogan."
+  },
+  {
+    "name": "brand-voice-guide",
+    "category": "Branding & Design",
+    "description": "Creates a comprehensive brand voice guide with tone attributes, vocabulary lists, do's and don'ts, and platform-specific adaptations. Use when a user needs to document their brand voice for consistency, is onboarding writers or team members, or wants to establish clear messaging guidelines."
+  },
+  {
+    "name": "color-palette-generator",
+    "category": "Branding & Design",
+    "description": "Generates brand color palettes with hex codes, accessibility ratings, application guidelines, and print/digital specifications. Use when establishing or refreshing brand colors."
+  },
+  {
+    "name": "executive-resume",
+    "category": "Branding & Design",
+    "description": "Writes executive resumes with achievement-focused content, leadership narrative, and ATS-friendly formatting."
+  },
+  {
+    "name": "expert-positioning",
+    "category": "Branding & Design",
+    "description": "Builds expert positioning strategies with thought leadership plans, speaking opportunities, and visibility tactics."
+  },
+  {
+    "name": "icon-set-brief",
+    "category": "Branding & Design",
+    "description": "Briefs icon set design with style direction, size requirements, use cases, consistency guidelines, and delivery specifications. Use when commissioning custom icons for your brand."
+  },
+  {
+    "name": "merch-design-brief",
+    "category": "Branding & Design",
+    "description": "Creates merchandise design briefs for branded swag with product selection, design placement, vendor specs, and budget planning. Use when producing branded merchandise."
+  },
+  {
+    "name": "mission-statement",
+    "category": "Branding & Design",
+    "description": "Crafts organization mission, vision, and values statements with stakeholder input process and alignment exercises."
+  },
+  {
+    "name": "naming-workshop",
+    "category": "Branding & Design",
+    "description": "Facilitates business or product naming with brainstorming frameworks, evaluation criteria, domain checks, and trademark considerations. Use when naming anything new."
+  },
+  {
+    "name": "packaging-brief",
+    "category": "Branding & Design",
+    "description": "Writes product packaging design briefs with dimensions, material considerations, messaging hierarchy, compliance requirements, and vendor specs. Use when designing physical packaging."
+  },
+  {
+    "name": "portfolio-page",
+    "category": "Branding & Design",
+    "description": "Writes compelling portfolio page copy with project descriptions, results, testimonials, and CTAs for freelancers."
+  },
+  {
+    "name": "presentation-template-guide",
+    "category": "Branding & Design",
+    "description": "Creates brand-aligned presentation template guidelines with slide layouts, color usage, font hierarchies, and do's and don'ts. Use when standardizing team presentations."
+  },
+  {
+    "name": "rebrand-plan",
+    "category": "Branding & Design",
+    "description": "Plans brand refreshes and full rebrands with phased rollout, stakeholder communication, asset transition checklists, and timeline management. Use when evolving your brand identity."
+  },
+  {
+    "name": "signage-brief",
+    "category": "Branding & Design",
+    "description": "Creates signage and environmental graphics briefs with location specs, materials, messaging, compliance requirements, and vendor specifications. Use when planning physical signage."
+  },
+  {
+    "name": "signature-talk",
+    "category": "Branding & Design",
+    "description": "Develops signature keynote talks with modular sections, audience customization guides, and delivery notes. Use when building a repeatable talk for stages, summits, or webinars."
+  },
+  {
+    "name": "speaking-one-sheet",
+    "category": "Branding & Design",
+    "description": "Creates professional speaker one-sheets with topics, bio, testimonials, headshot specs, and booking information."
+  },
+  {
+    "name": "style-tile",
+    "category": "Branding & Design",
+    "description": "Creates style tiles for web design projects with typography, colors, UI elements, textures, and mood references. Use when aligning on visual direction before full design."
+  },
+  {
+    "name": "unboxing-experience",
+    "category": "Branding & Design",
+    "description": "Designs unboxing experiences with packaging sequence, insert cards, thank-you notes, and social sharing prompts to increase retention and word-of-mouth. Use for e-commerce brands."
+  },
+  {
+    "name": "visual-identity-brief",
+    "category": "Branding & Design",
+    "description": "Creates briefs for designers with mood board direction, style references, do's and don'ts, and deliverable specifications. Use when hiring a designer for brand work."
+  },
+  {
+    "name": "agency-onboarding",
+    "category": "Client & Consulting",
+    "description": "Creates a complete client onboarding system for agencies and service providers, including welcome email sequence, intake questionnaire, kickoff meeting checklist, and communication guidelines. Use when a user runs an agency, consultancy, or service business and needs to standardize how new clients are brought on board."
+  },
+  {
+    "name": "client-feedback-system",
+    "category": "Client & Consulting",
+    "description": "Designs structured client feedback systems with mid-project check-ins and post-project reviews for service businesses."
+  },
+  {
+    "name": "client-intake-form",
+    "category": "Client & Consulting",
+    "description": "Creates client intake forms and questionnaires that gather essential project information efficiently."
+  },
+  {
+    "name": "client-report-template",
+    "category": "Client & Consulting",
+    "description": "Designs client reporting templates with executive summaries, data visualizations, and next-step recommendations."
+  },
+  {
+    "name": "client-transformation-story",
+    "category": "Client & Consulting",
+    "description": "Writes client transformation narratives with before/after frameworks, timeline, and ethical presentation guidelines."
+  },
+  {
+    "name": "cohort-program",
+    "category": "Client & Consulting",
+    "description": "Designs cohort-based learning programs with weekly structure, peer interaction, accountability systems, and graduation criteria."
+  },
+  {
+    "name": "consulting-framework",
+    "category": "Client & Consulting",
+    "description": "Builds consulting engagement frameworks with diagnostic questions, analysis templates, and recommendation structures."
+  },
+  {
+    "name": "consulting-proposal-template",
+    "category": "Client & Consulting",
+    "description": "Creates reusable consulting proposal templates with customizable sections for different engagement types."
+  },
+  {
+    "name": "diagnostic-assessment",
+    "category": "Client & Consulting",
+    "description": "Builds diagnostic assessment tools for consulting engagements with scoring, benchmarking, and recommendation logic."
+  },
+  {
+    "name": "group-program-design",
+    "category": "Client & Consulting",
+    "description": "Designs group coaching or fitness programs with cohort structure, scheduling, pricing, and community elements."
+  },
+  {
+    "name": "industry-association-plan",
+    "category": "Client & Consulting",
+    "description": "Plans industry association involvement with membership selection, participation strategy, and leadership positioning."
+  },
+  {
+    "name": "mastermind-group",
+    "category": "Client & Consulting",
+    "description": "Designs mastermind group structures with member selection, meeting formats, hot seat protocols, and accountability systems."
+  },
+  {
+    "name": "project-scope-change",
+    "category": "Client & Consulting",
+    "description": "Writes scope change request documents with impact assessment, revised timeline, and cost adjustments for client projects."
+  },
+  {
+    "name": "quiz-generator",
+    "category": "Client & Consulting",
+    "description": "Generates quizzes and assessments with multiple choice, true/false, and short answer questions with answer keys."
+  },
+  {
+    "name": "service-guarantee",
+    "category": "Client & Consulting",
+    "description": "Creates service guarantees and satisfaction commitments with specific terms, exclusions, and claim procedures."
+  },
+  {
+    "name": "service-productization",
+    "category": "Client & Consulting",
+    "description": "Converts custom services into productized offerings with fixed scope, pricing, and delivery processes for scalable revenue."
+  },
+  {
+    "name": "skill-assessment",
+    "category": "Client & Consulting",
+    "description": "Builds skill assessment tools with competency levels, evaluation rubrics, and development recommendations."
+  },
+  {
+    "name": "survey-builder",
+    "category": "Client & Consulting",
+    "description": "Creates customer feedback surveys with strategically ordered questions, response scales, and analysis frameworks for measuring satisfaction, gathering product feedback, or validating new ideas. Use when a user needs to collect customer feedback, wants to run a Net Promoter Score survey, or needs to validate a product idea before building it."
+  },
+  {
+    "name": "about-page",
+    "category": "Content & Copywriting",
+    "description": "Writes compelling about pages, founder bios, and team introductions that build trust and convert visitors using storytelling frameworks and social proof. Use when a user needs an about page for their website, wants to write a professional bio, or needs to introduce their team in a way that builds credibility."
+  },
+  {
+    "name": "article-rewriter",
+    "category": "Content & Copywriting",
+    "description": "Rewrites existing articles with fresh angles, updated data, and improved SEO while preserving core message. Use when refreshing outdated content or adapting articles for new audiences."
+  },
+  {
+    "name": "authority-content-strategy",
+    "category": "Content & Copywriting",
+    "description": "Plans content strategies for building authority with research pieces, original frameworks, and data studies."
+  },
+  {
+    "name": "blog-post",
+    "category": "Content & Copywriting",
+    "description": "Writes SEO-optimized long-form blog posts with outline approval, meta descriptions, internal link suggestions, featured image briefs, and a pre-publish SEO checklist. Use when a user needs a blog article for their website, wants to rank for specific keywords, or needs content marketing pieces that drive organic traffic."
+  },
+  {
+    "name": "book-outline",
+    "category": "Content & Copywriting",
+    "description": "Outlines non-fiction books with chapter structure, key arguments, supporting evidence, and word count targets per chapter. Use when a user wants to write a non-fiction book, needs to organize their expertise into a publishable structure, or is pitching a book proposal to publishers or agents."
+  },
+  {
+    "name": "book-proposal",
+    "category": "Content & Copywriting",
+    "description": "Writes non-fiction book proposals with overview, market analysis, competitive titles, chapter outlines, and sample chapters."
+  },
+  {
+    "name": "brand-story",
+    "category": "Content & Copywriting",
+    "description": "Crafts compelling origin stories and brand narratives using the hero's journey framework. Use when a user needs an about page story, launch narrative, pitch deck backstory, or wants to articulate why their business exists in a way that emotionally connects with customers."
+  },
+  {
+    "name": "caption-writer",
+    "category": "Content & Copywriting",
+    "description": "Writes platform-optimized social media captions with CTAs, hashtags, and character limits for Instagram, LinkedIn, TikTok, X/Twitter, and Facebook. Use when a user needs captions for social media posts, wants to batch-write captions for a content calendar, or needs platform-specific formatting."
+  },
+  {
+    "name": "case-study",
+    "category": "Content & Copywriting",
+    "description": "Transforms client results and project outcomes into structured case studies with situation, challenge, solution, and results sections. Use when a user wants to showcase client wins, needs social proof for their sales process, or wants to document project success stories for their website or proposals."
+  },
+  {
+    "name": "collection-page-copy",
+    "category": "Content & Copywriting",
+    "description": "Writes collection and category page copy with SEO-friendly descriptions, navigation aids, cross-sell suggestions, and filtering guidance. Use for e-commerce category pages."
+  },
+  {
+    "name": "comparison-article",
+    "category": "Content & Copywriting",
+    "description": "Writes 'X vs Y' comparison articles with feature tables, pros/cons, use cases, and recommendation logic. Use when creating product or service comparison content for SEO or buyer guidance."
+  },
+  {
+    "name": "content-audit",
+    "category": "Content & Copywriting",
+    "description": "Audits existing content inventory for gaps, update opportunities, consolidation candidates, and SEO decay. Use when reviewing your content library to find what to update, merge, or remove."
+  },
+  {
+    "name": "content-brief",
+    "category": "Content & Copywriting",
+    "description": "Creates detailed content briefs for freelance writers with tone, structure, SEO targets, examples, and quality criteria. Use when a user is outsourcing content creation, needs to give clear direction to a writer, or wants to systematize their content production process."
+  },
+  {
+    "name": "content-calendar",
+    "category": "Content & Copywriting",
+    "description": "Generates a 30-day content calendar as a Notion database with posts mapped to content pillars, platforms, and dates, plus starter graphic templates in Canva for each content pillar. Use when a user needs to plan their content for the month, wants a structured posting schedule, or needs to batch-create content across multiple platforms."
+  },
+  {
+    "name": "content-cluster-plan",
+    "category": "Content & Copywriting",
+    "description": "Designs topic cluster strategies with pillar pages, cluster content, and internal linking architecture. Use when building topical authority for SEO."
+  },
+  {
+    "name": "content-gap-finder",
+    "category": "Content & Copywriting",
+    "description": "Identifies content gaps by analyzing competitor content, search intent mismatches, and audience questions. Use when planning what content to create next based on strategic opportunities."
+  },
+  {
+    "name": "content-pillar-strategy",
+    "category": "Content & Copywriting",
+    "description": "Designs a content pillar framework with 3-5 core pillars, sub-topics, and a 90-day content mapping plan. Use when building a structured content strategy from scratch or overhauling an unfocused one."
+  },
+  {
+    "name": "content-repurpose",
+    "category": "Content & Copywriting",
+    "description": "Repurposes a single piece of content (blog post, transcript, newsletter, video script) into multiple platform-ready formats including social posts, email copy, threads, and short-form video scripts. Use when a user has existing content they want to distribute across multiple channels without writing everything from scratch."
+  },
+  {
+    "name": "content-style-guide",
+    "category": "Content & Copywriting",
+    "description": "Creates editorial style guides covering grammar preferences, formatting rules, tone guidelines, and word lists. Use when standardizing content quality across writers, platforms, or team members."
+  },
+  {
+    "name": "donation-page-copy",
+    "category": "Content & Copywriting",
+    "description": "Writes donation page copy with urgency, impact framing, recurring giving encouragement, and trust signals."
+  },
+  {
+    "name": "ebook-outline",
+    "category": "Content & Copywriting",
+    "description": "Outlines downloadable ebooks with chapter structure, design notes, and lead magnet positioning strategy. Use when creating a free or paid ebook as a content asset or lead generator."
+  },
+  {
+    "name": "expert-roundup-pitch",
+    "category": "Content & Copywriting",
+    "description": "Writes pitches for inclusion in expert roundups with quotable responses and authority-building positioning. Use when seeking backlinks and thought leadership exposure."
+  },
+  {
+    "name": "faq-generator",
+    "category": "Content & Copywriting",
+    "description": "Generates comprehensive FAQ sections organized by category with clear, concise answers optimized for websites, sales pages, and help centers. Use when a user needs an FAQ section for their website, wants to preempt common customer questions, or is building a help page for a product or service."
+  },
+  {
+    "name": "feature-announcement",
+    "category": "Content & Copywriting",
+    "description": "Writes feature release announcements with benefit framing, screenshots, and adoption encouragement across channels. Use when launching new product features."
+  },
+  {
+    "name": "ghostwriter-brief",
+    "category": "Content & Copywriting",
+    "description": "Creates comprehensive briefs for ghostwriters including voice samples, topic guidance, SEO targets, and style rules. Use when hiring a writer and need to communicate your expectations clearly."
+  },
+  {
+    "name": "headline-generator",
+    "category": "Content & Copywriting",
+    "description": "Generates 20+ headline variations using proven formulas (how-to, listicle, question, number, curiosity gap). Use when you need compelling headlines for blog posts, ads, emails, or landing pages."
+  },
+  {
+    "name": "help-center-article",
+    "category": "Content & Copywriting",
+    "description": "Writes help center articles with step-by-step instructions, screenshot placeholders, and troubleshooting sections for customer self-service."
+  },
+  {
+    "name": "hook-generator",
+    "category": "Content & Copywriting",
+    "description": "Generates attention-grabbing hooks for any content format including video intros, social posts, emails, articles, and ads. Use when a user needs opening lines that stop the scroll, wants to test multiple hook angles for a piece of content, or is struggling with how to start their content."
+  },
+  {
+    "name": "landing-page-copy",
+    "category": "Content & Copywriting",
+    "description": "Writes conversion-focused landing page copy with hero, benefits, social proof, and CTA sections. Use when building a landing page for a product, service, or lead magnet."
+  },
+  {
+    "name": "linkedin-article",
+    "category": "Content & Copywriting",
+    "description": "Writes long-form LinkedIn articles optimized for the platform's algorithm with professional tone, engagement hooks, and CTA. Use when you need thought leadership content published directly on LinkedIn."
+  },
+  {
+    "name": "listicle-generator",
+    "category": "Content & Copywriting",
+    "description": "Creates engaging listicle articles with consistent entry structure, examples, and SEO optimization. Use when writing numbered list posts like 'Top 10' or 'Best X for Y' articles."
+  },
+  {
+    "name": "microcopy-writer",
+    "category": "Content & Copywriting",
+    "description": "Writes UX microcopy for buttons, tooltips, error messages, empty states, and onboarding flows. Use when you need clear, human interface text that guides users through your product."
+  },
+  {
+    "name": "newsletter-builder",
+    "category": "Content & Copywriting",
+    "description": "Creates complete newsletters from editorial brief to final visual layout, planning content in Notion and generating the designed version in Canva. Use when a user needs to produce a recurring newsletter issue, build a newsletter from scratch, or transform raw ideas into a polished send-ready newsletter."
+  },
+  {
+    "name": "newsletter-strategy",
+    "category": "Content & Copywriting",
+    "description": "Plans newsletter cadence, content themes, growth tactics, and monetization strategy for email publications. Use when launching or restructuring an email newsletter for your business."
+  },
+  {
+    "name": "pillar-page",
+    "category": "Content & Copywriting",
+    "description": "Creates comprehensive pillar pages (3,000+ words) that serve as content hubs linking to related cluster content. Use when building an SEO topic cluster strategy with a cornerstone page."
+  },
+  {
+    "name": "podcast-one-sheet",
+    "category": "Content & Copywriting",
+    "description": "Creates podcast one-sheets for guest bookings with show description, host bio, audience stats, and sponsorship rates. Use when pitching sponsors or recruiting high-profile guests."
+  },
+  {
+    "name": "podcast-show-notes",
+    "category": "Content & Copywriting",
+    "description": "Transforms podcast or video transcripts into structured show notes with timestamps, key takeaways, resource links, guest bios, pull quotes, and SEO-optimized episode descriptions. Use when a user has a transcript or recording summary and needs polished show notes for their podcast episode page."
+  },
+  {
+    "name": "press-kit",
+    "category": "Content & Copywriting",
+    "description": "Creates comprehensive press kits with company backgrounder, founder bio, high-res assets, fact sheets, and media contacts. Use when preparing for media outreach or PR campaigns."
+  },
+  {
+    "name": "press-release",
+    "category": "Content & Copywriting",
+    "description": "Writes professional press releases following AP style with headline, dateline, lead paragraph, body, boilerplate, and media contact sections. Use when a user is launching a product, announcing a milestone, making a hire, forming a partnership, or has any newsworthy event to share with media outlets."
+  },
+  {
+    "name": "pricing-page-copy",
+    "category": "Content & Copywriting",
+    "description": "Writes SaaS pricing page copy with tier descriptions, feature comparisons, and objection-handling FAQ. Use when launching or redesigning a pricing page."
+  },
+  {
+    "name": "product-changelog",
+    "category": "Content & Copywriting",
+    "description": "Creates product changelog formats with version notes, categorization (new, improved, fixed), and user-friendly language. Use when documenting product updates for users."
+  },
+  {
+    "name": "product-description",
+    "category": "Content & Copywriting",
+    "description": "Writes conversion-optimized product descriptions for e-commerce platforms with benefit-driven copy, SEO keywords, and platform-specific formatting for Shopify, Amazon, Etsy, and WooCommerce. Use when a user needs product listings, wants to improve existing product copy, or is launching products on an e-commerce platform."
+  },
+  {
+    "name": "product-faq",
+    "category": "Content & Copywriting",
+    "description": "Generates product-specific FAQ sections addressing common pre-purchase questions, objections, and concerns to increase conversion rates. Use when reducing buyer hesitation."
+  },
+  {
+    "name": "professional-bio",
+    "category": "Content & Copywriting",
+    "description": "Writes professional bios in multiple lengths for different platforms and contexts with consistent personal branding."
+  },
+  {
+    "name": "recipe-card",
+    "category": "Content & Copywriting",
+    "description": "Creates professional recipe cards with ingredient lists, step-by-step instructions, and scaling calculations. Use when documenting recipes for customers, content, or operations."
+  },
+  {
+    "name": "release-notes",
+    "category": "Content & Copywriting",
+    "description": "Writes user-friendly release notes with categorized changes, migration guides, and known issues. Use when communicating software updates to users and stakeholders."
+  },
+  {
+    "name": "script-to-blog",
+    "category": "Content & Copywriting",
+    "description": "Converts video or podcast transcripts into polished, SEO-optimized blog posts with proper formatting. Use when repurposing audio/video content into written articles."
+  },
+  {
+    "name": "seo-content-brief",
+    "category": "Content & Copywriting",
+    "description": "Writes SEO content briefs with target keywords, competitor analysis, SERP feature opportunities, and outline structure. Use when assigning content to writers."
+  },
+  {
+    "name": "speech-writer",
+    "category": "Content & Copywriting",
+    "description": "Writes keynotes, conference talks, and podcast guest talking points with timing, delivery notes, and audience engagement techniques. Use when a user is preparing for a speaking engagement, guest podcast appearance, panel discussion, or needs to structure their ideas into a compelling talk."
+  },
+  {
+    "name": "thought-leader-content-plan",
+    "category": "Content & Copywriting",
+    "description": "Plans thought leadership content across articles, talks, social posts, and interviews with consistent messaging."
+  },
+  {
+    "name": "thought-leadership",
+    "category": "Content & Copywriting",
+    "description": "Writes opinion pieces and thought leadership articles that position the author as an industry authority. Use when you need to publish a strong perspective on an industry topic."
+  },
+  {
+    "name": "tutorial-writer",
+    "category": "Content & Copywriting",
+    "description": "Creates step-by-step tutorials with screenshot placeholders, code snippets, and troubleshooting sections. Use this skill when a user needs to write a how-to guide, help documentation, onboarding walkthrough, or educational tutorial for their product, tool, or process."
+  },
+  {
+    "name": "video-script",
+    "category": "Content & Copywriting",
+    "description": "Writes ready-to-film video scripts with hooks, segment breakdowns, B-roll cues, text overlay notes, timing estimates, and shot lists. Use when a user needs a script for YouTube, TikTok, Instagram Reels, course content, or any video format where a structured script improves production quality."
+  },
+  {
+    "name": "viral-content-formula",
+    "category": "Content & Copywriting",
+    "description": "Analyzes viral content patterns and creates frameworks for engineering shareable content across platforms. Use when designing content with maximum share potential and organic reach."
+  },
+  {
+    "name": "white-paper",
+    "category": "Content & Copywriting",
+    "description": "Writes authoritative white papers with executive summary, research sections, data visualization suggestions, and lead-gen CTA. Use when you need a long-form thought leadership asset for B2B lead generation or industry authority building."
+  },
+  {
+    "name": "youtube-thumbnail",
+    "category": "Content & Copywriting",
+    "description": "Generates three YouTube thumbnail options optimized for click-through rate using Canva, applying high-contrast colors, emotional expressions, and concise text overlays. Use when a user needs a thumbnail for a YouTube video, wants to A/B test thumbnail designs, or needs click-optimized visual assets at 1280x720."
+  },
+  {
+    "name": "certification-program",
+    "category": "Courses & Education",
+    "description": "Designs certification programs with curriculum, assessment criteria, grading rubrics, and credential management."
+  },
+  {
+    "name": "class-schedule-planner",
+    "category": "Courses & Education",
+    "description": "Plans class/session schedules with instructor assignments, room allocation, and enrollment capacity management."
+  },
+  {
+    "name": "continuing-education",
+    "category": "Courses & Education",
+    "description": "Plans continuing education offerings with credit requirements, course catalogs, and completion tracking systems."
+  },
+  {
+    "name": "course-outline",
+    "category": "Courses & Education",
+    "description": "Designs complete online course curricula with modules, lessons, learning objectives, assignments, and recommended formats. Use when a user wants to create an online course, needs to structure their expertise into teachable content, or is planning a cohort-based program or self-paced course."
+  },
+  {
+    "name": "curriculum-review",
+    "category": "Courses & Education",
+    "description": "Reviews and improves existing course curricula with gap analysis, modern content updates, and engagement optimization."
+  },
+  {
+    "name": "fitness-program-outline",
+    "category": "Courses & Education",
+    "description": "Outlines fitness programs with phase structure, progression logic, exercise selection, and client modifications."
+  },
+  {
+    "name": "homework-assignment",
+    "category": "Courses & Education",
+    "description": "Creates homework and practice assignments with clear instructions, grading criteria, and learning connections."
+  },
+  {
+    "name": "learning-path",
+    "category": "Courses & Education",
+    "description": "Maps learning paths with prerequisite skills, milestone assessments, and recommended resource sequences."
+  },
+  {
+    "name": "lesson-plan",
+    "category": "Courses & Education",
+    "description": "Creates structured lesson plans with objectives, activities, assessment methods, and differentiation strategies."
+  },
+  {
+    "name": "micro-course",
+    "category": "Courses & Education",
+    "description": "Creates bite-sized micro-courses under 30 minutes with focused learning objectives and immediate application exercises."
+  },
+  {
+    "name": "nutrition-content-plan",
+    "category": "Courses & Education",
+    "description": "Creates nutrition-focused content plans with topic ideas, recipe structures, and disclaimer templates for wellness brands."
+  },
+  {
+    "name": "podcast-launch",
+    "category": "Courses & Education",
+    "description": "Plans podcast launches from concept and format through branding, equipment recommendations, and first 5 episode outlines. Use when a user wants to start a podcast, needs to plan their show format and content strategy, or is ready to launch but doesn't know where to begin."
+  },
+  {
+    "name": "student-feedback-form",
+    "category": "Courses & Education",
+    "description": "Creates course evaluation forms with rating scales, open-ended questions, and improvement-focused categories for gathering actionable student feedback."
+  },
+  {
+    "name": "study-guide",
+    "category": "Courses & Education",
+    "description": "Writes study guides with key concepts, review questions, memory aids, and exam preparation strategies."
+  },
+  {
+    "name": "ted-talk-outline",
+    "category": "Courses & Education",
+    "description": "Structures TED-style talk outlines with narrative arc, audience engagement points, and timing markers."
+  },
+  {
+    "name": "webinar-planner",
+    "category": "Courses & Education",
+    "description": "Plans webinars end-to-end with content outlines, slide structures, promotional email sequences, registration page copy, and post-webinar follow-up, with optional planning pages in Notion and promotional graphics in Canva. Use when a user is hosting a webinar, live workshop, or virtual event and needs the full content and promotional package."
+  },
+  {
+    "name": "wellness-assessment",
+    "category": "Courses & Education",
+    "description": "Builds wellness intake assessments with health history, goal setting, and lifestyle evaluation questionnaires."
+  },
+  {
+    "name": "wellness-workshop-plan",
+    "category": "Courses & Education",
+    "description": "Plans wellness workshops with curriculum, activity guides, handouts, and post-workshop resource lists."
+  },
+  {
+    "name": "workshop-builder",
+    "category": "Courses & Education",
+    "description": "Designs complete workshop curricula including agendas, exercises, handouts, and facilitator guides. Use when a user wants to plan a paid or free workshop, training session, webinar with interactive elements, or live educational event and needs a structured curriculum with timing and materials."
+  },
+  {
+    "name": "workshop-handout",
+    "category": "Courses & Education",
+    "description": "Creates workshop handout materials with exercises, reference sheets, templates, and post-workshop action items."
+  },
+  {
+    "name": "cross-border-selling",
+    "category": "E-commerce & Products",
+    "description": "Plans international selling strategies with localization, shipping, duties/taxes, and compliance considerations."
+  },
+  {
+    "name": "dropshipping-supplier-brief",
+    "category": "E-commerce & Products",
+    "description": "Creates supplier evaluation and communication templates for dropshipping businesses with quality standards, SLAs, and order management workflows. Use when vetting dropshipping partners."
+  },
+  {
+    "name": "exchange-policy",
+    "category": "E-commerce & Products",
+    "description": "Writes exchange policies with eligibility criteria, process steps, customer communication templates, and exception handling. Use when establishing or improving your exchange process."
+  },
+  {
+    "name": "food-delivery-strategy",
+    "category": "E-commerce & Products",
+    "description": "Plans food delivery operations with platform selection, packaging, pricing, and quality control procedures. Use when launching or optimizing restaurant delivery service."
+  },
+  {
+    "name": "food-truck-business-plan",
+    "category": "E-commerce & Products",
+    "description": "Creates food truck business plans with menu strategy, location planning, permits checklist, and revenue projections. Use when launching or scaling a food truck business."
+  },
+  {
+    "name": "gift-guide",
+    "category": "E-commerce & Products",
+    "description": "Creates themed gift guides with product curation, descriptions, price tiers, and promotional strategy for seasonal marketing."
+  },
+  {
+    "name": "investment-property-analysis",
+    "category": "E-commerce & Products",
+    "description": "Analyzes rental investment properties with cash flow projections, cap rate calculations, and ROI scenarios."
+  },
+  {
+    "name": "lease-agreement-checklist",
+    "category": "E-commerce & Products",
+    "description": "Creates lease agreement review checklists ensuring all essential terms, disclosures, and addenda are included."
+  },
+  {
+    "name": "marketplace-listing",
+    "category": "E-commerce & Products",
+    "description": "Optimizes marketplace listings for Etsy, Amazon, eBay with platform-specific SEO, pricing, and imagery guidelines."
+  },
+  {
+    "name": "neighborhood-guide",
+    "category": "E-commerce & Products",
+    "description": "Writes neighborhood guides with local amenities, schools, transportation, demographics, and lifestyle descriptions."
+  },
+  {
+    "name": "open-house-plan",
+    "category": "E-commerce & Products",
+    "description": "Plans open house events with preparation checklist, visitor registration, follow-up sequences, and feedback collection."
+  },
+  {
+    "name": "product-recall-plan",
+    "category": "E-commerce & Products",
+    "description": "Creates product recall communication plans with customer notification, return procedures, and reputation management strategies."
+  },
+  {
+    "name": "product-sourcing-brief",
+    "category": "E-commerce & Products",
+    "description": "Writes product sourcing briefs with specifications, quality requirements, MOQs, supplier evaluation criteria, and negotiation guidelines. Use when finding manufacturers for a product."
+  },
+  {
+    "name": "property-listing",
+    "category": "E-commerce & Products",
+    "description": "Writes compelling property listing descriptions with features, neighborhood highlights, and buyer-targeted copy."
+  },
+  {
+    "name": "property-management-sop",
+    "category": "E-commerce & Products",
+    "description": "Builds property management SOPs for maintenance requests, inspections, rent collection, and tenant communication."
+  },
+  {
+    "name": "real-estate-crm-setup",
+    "category": "E-commerce & Products",
+    "description": "Sets up real estate CRM systems with pipeline stages, lead scoring, and automated follow-up sequences."
+  },
+  {
+    "name": "real-estate-newsletter",
+    "category": "E-commerce & Products",
+    "description": "Creates real estate market update newsletters with local data analysis, buying/selling tips, and featured listings."
+  },
+  {
+    "name": "rental-listing",
+    "category": "E-commerce & Products",
+    "description": "Writes rental property listings with amenity highlights, qualification requirements, and application instructions."
+  },
+  {
+    "name": "seasonal-inventory-plan",
+    "category": "E-commerce & Products",
+    "description": "Plans seasonal inventory with demand forecasting, ordering timelines, and clearance strategy to maximize revenue and minimize dead stock."
+  },
+  {
+    "name": "seller-onboarding",
+    "category": "E-commerce & Products",
+    "description": "Creates seller onboarding programs for marketplaces with verification, listing guides, and success milestones. Use when building seller activation flows for platform businesses."
+  },
+  {
+    "name": "size-guide",
+    "category": "E-commerce & Products",
+    "description": "Creates product size guides with measurement instructions, comparison charts, fit recommendations, and international conversions. Use when reducing size-related returns."
+  },
+  {
+    "name": "store-launch-plan",
+    "category": "E-commerce & Products",
+    "description": "Plans e-commerce store launches with pre-launch checklist, marketing calendar, launch day playbook, and post-launch optimization priorities. Use when opening an online store."
+  },
+  {
+    "name": "subscription-box-plan",
+    "category": "E-commerce & Products",
+    "description": "Plans subscription box businesses with curation strategy, pricing, fulfillment logistics, and retention tactics for recurring revenue growth."
+  },
+  {
+    "name": "wholesale-catalog",
+    "category": "E-commerce & Products",
+    "description": "Creates wholesale catalogs with product listings, tiered pricing, MOQs, and ordering information for retail buyers."
+  },
+  {
+    "name": "abandoned-cart-email",
+    "category": "Email Marketing & Automation",
+    "description": "Writes abandoned cart email sequences with timing, subject lines, incentive escalation, and product image notes. Use when recovering lost sales from customers who left items in their cart."
+  },
+  {
+    "name": "ambassador-program",
+    "category": "Email Marketing & Automation",
+    "description": "Designs brand ambassador programs with tiers, perks, responsibilities, content requirements, and tracking systems. Use when building a community of advocates who promote your brand."
+  },
+  {
+    "name": "black-friday-emails",
+    "category": "Email Marketing & Automation",
+    "description": "Creates Black Friday/Cyber Monday email sequences with early access, flash deals, last chance, and extended sale phases. Use for holiday sale campaigns."
+  },
+  {
+    "name": "cart-recovery-sms",
+    "category": "Email Marketing & Automation",
+    "description": "Writes SMS cart recovery messages with timing, personalization tokens, and compliance disclaimers. Use when you need to recover abandoned carts via text message."
+  },
+  {
+    "name": "cause-marketing-campaign",
+    "category": "Email Marketing & Automation",
+    "description": "Plans cause marketing campaigns with brand-nonprofit partnerships, messaging, and impact measurement."
+  },
+  {
+    "name": "cold-outreach",
+    "category": "Email Marketing & Automation",
+    "description": "Builds personalized cold email and DM outreach sequences with research-backed personalization, multi-touch follow-up cadence, subject line formulas, and response-handling scripts for every outcome. Use when an entrepreneur, freelancer, or agency owner needs to reach prospects they have no prior relationship with — for sales, partnerships, collaborations, or client acquisition."
+  },
+  {
+    "name": "customer-review-strategy",
+    "category": "Email Marketing & Automation",
+    "description": "Designs post-purchase review collection strategies with timing, email templates, and incentive programs to build social proof."
+  },
+  {
+    "name": "downsell-sequence",
+    "category": "Email Marketing & Automation",
+    "description": "Builds downsell offers and sequences for prospects who decline the primary offer. Use when you need to capture revenue from people who say no to your main pitch."
+  },
+  {
+    "name": "drip-campaign",
+    "category": "Email Marketing & Automation",
+    "description": "Builds nurture drip campaigns with conditional logic, lead scoring triggers, and content mapping per stage. Use when you need automated email sequences that move leads through your funnel based on behavior."
+  },
+  {
+    "name": "email-ab-test-plan",
+    "category": "Email Marketing & Automation",
+    "description": "Designs A/B testing plans for email campaigns with hypothesis, test variables, sample sizes, and success metrics. Use when you need data-driven email optimization."
+  },
+  {
+    "name": "email-deliverability-audit",
+    "category": "Email Marketing & Automation",
+    "description": "Audits email practices for deliverability issues including sender reputation, authentication, and list hygiene. Use when emails are landing in spam or engagement rates are dropping."
+  },
+  {
+    "name": "email-design-system",
+    "category": "Email Marketing & Automation",
+    "description": "Designs email template systems with header/footer standards, button styles, image guidelines, responsive rules, and type-specific layouts. Use when standardizing email communications."
+  },
+  {
+    "name": "email-list-cleanup",
+    "category": "Email Marketing & Automation",
+    "description": "Plans email list segmentation and cleanup strategies with re-engagement criteria and sunsetting rules. Use when your list has inactive subscribers hurting deliverability."
+  },
+  {
+    "name": "email-newsletter-template",
+    "category": "Email Marketing & Automation",
+    "description": "Designs reusable newsletter templates with section layouts, formatting rules, and brand guidelines. Use when creating a consistent, repeatable newsletter format you can use every edition."
+  },
+  {
+    "name": "email-preference-center",
+    "category": "Email Marketing & Automation",
+    "description": "Designs email preference center structure with subscription options, frequency controls, and topic selections. Use when you need to reduce unsubscribes and give subscribers control."
+  },
+  {
+    "name": "email-sequence",
+    "category": "Email Marketing & Automation",
+    "description": "Builds complete automated email sequences with timing delays, conditional triggers, A/B subject lines, and platform-specific implementation notes. Use when a user needs a welcome series, nurture sequence, launch sequence, re-engagement campaign, or any multi-email automation flow."
+  },
+  {
+    "name": "email-subject-line-tester",
+    "category": "Email Marketing & Automation",
+    "description": "Generates and scores 20+ subject line variations using proven formulas and predicts open rate performance. Use when you need high-performing email subject lines."
+  },
+  {
+    "name": "engagement-playbook",
+    "category": "Email Marketing & Automation",
+    "description": "Builds engagement strategies with comment response templates, DM scripts, and community interaction frameworks. Use when you need a systematic approach to social media engagement."
+  },
+  {
+    "name": "flash-sale-campaign",
+    "category": "Email Marketing & Automation",
+    "description": "Plans flash sale campaigns with countdown messaging, email sequence, and social media coordination. Use when running a short, time-limited promotional event."
+  },
+  {
+    "name": "launch-email-sequence",
+    "category": "Email Marketing & Automation",
+    "description": "Builds pre-launch to post-launch email sequences with teaser, announcement, urgency, and follow-up phases. Use when launching a new product, service, or offer."
+  },
+  {
+    "name": "loyalty-program",
+    "category": "Email Marketing & Automation",
+    "description": "Designs customer loyalty and rewards programs with tier structures, earning rules, redemption options, and promotional launch messaging. Use when a user wants to increase repeat purchases, reduce churn, reward their best customers, or build a membership-style retention system."
+  },
+  {
+    "name": "milestone-email",
+    "category": "Email Marketing & Automation",
+    "description": "Creates automated milestone celebration emails for anniversaries, purchase counts, and achievements to boost customer retention and loyalty."
+  },
+  {
+    "name": "order-bump-copy",
+    "category": "Email Marketing & Automation",
+    "description": "Writes order bump offers for checkout pages with benefit-focused copy and pricing psychology. Use when you need to increase average order value at checkout."
+  },
+  {
+    "name": "payment-plan-offer",
+    "category": "Email Marketing & Automation",
+    "description": "Designs payment plan structures with terms, messaging, and implementation guidelines. Use when you want to offer installment pricing to increase conversions."
+  },
+  {
+    "name": "price-increase-notice",
+    "category": "Email Marketing & Automation",
+    "description": "Writes price increase announcements with justification, grandfather clauses, and urgency elements. Use when raising prices on existing products or services."
+  },
+  {
+    "name": "product-launch-email",
+    "category": "Email Marketing & Automation",
+    "description": "Writes a high-converting product launch email with subject line variants, preview text, and segmentation notes. Use when announcing a new product, feature, or offer to your email list."
+  },
+  {
+    "name": "re-engagement-email",
+    "category": "Email Marketing & Automation",
+    "description": "Creates re-engagement campaigns for dormant subscribers with segmentation rules and sunset policy. Use when cleaning your email list and winning back inactive subscribers."
+  },
+  {
+    "name": "referral-program",
+    "category": "Email Marketing & Automation",
+    "description": "Designs customer referral systems with incentive tiers, tracking mechanisms, and promotional messaging. Use when a user wants to grow through word-of-mouth, needs a structured refer-a-friend program, or wants to reward existing customers for bringing in new business."
+  },
+  {
+    "name": "renewal-campaign",
+    "category": "Email Marketing & Automation",
+    "description": "Builds subscription renewal campaigns with reminder sequences, incentives, and save offers. Use when reducing churn and increasing subscription retention rates."
+  },
+  {
+    "name": "seasonal-campaign",
+    "category": "Email Marketing & Automation",
+    "description": "Plans seasonal and holiday marketing campaigns with timelines, creative themes, and channel strategies. Use this skill when a user needs to plan a campaign around a holiday, seasonal event, back-to-school period, or any time-bound buying moment for their e-commerce or service business."
+  },
+  {
+    "name": "social-proof-collector",
+    "category": "Email Marketing & Automation",
+    "description": "Creates systems for collecting and displaying social proof: screenshots, reviews, UGC, and metrics badges. Use when building a process to gather testimonials and credibility signals."
+  },
+  {
+    "name": "testimonial-collector",
+    "category": "Email Marketing & Automation",
+    "description": "Builds a complete testimonial collection system with request email templates, follow-up sequences, structured capture formats, and strategic placement guidelines. Use when a user wants to systematically collect client testimonials, needs social proof for their website or sales pages, or wants to turn happy customers into case studies."
+  },
+  {
+    "name": "thank-you-campaign",
+    "category": "Email Marketing & Automation",
+    "description": "Creates customer appreciation campaigns with personalized messaging, gifts, and milestone recognition. Use this skill when a user wants to build a thank-you campaign, customer appreciation program, retention-focused gratitude initiative, or milestone celebration sequence to delight and retain customers."
+  },
+  {
+    "name": "transactional-email",
+    "category": "Email Marketing & Automation",
+    "description": "Writes transactional emails (order confirmations, shipping updates, receipts) with brand voice and upsell opportunities. Use when creating or improving automated emails triggered by customer actions."
+  },
+  {
+    "name": "trial-to-paid-email",
+    "category": "Email Marketing & Automation",
+    "description": "Writes trial-to-paid conversion email sequences with feature education, social proof, and urgency progression. Use when optimizing free trial conversion rates."
+  },
+  {
+    "name": "two-sided-email-strategy",
+    "category": "Email Marketing & Automation",
+    "description": "Creates email strategies for two-sided marketplaces with separate buyer and seller communication tracks. Use when designing email programs for platform businesses."
+  },
+  {
+    "name": "upsell-sequence",
+    "category": "Email Marketing & Automation",
+    "description": "Builds post-purchase upsell and cross-sell email sequences that increase average order value through complementary offers, upgrades, and bundles timed to the customer journey. Use when a user wants to increase revenue from existing customers, needs a post-purchase email flow, or wants to promote upgrades, add-ons, or complementary products after an initial sale."
+  },
+  {
+    "name": "user-generated-content",
+    "category": "Email Marketing & Automation",
+    "description": "Creates UGC campaigns with submission guidelines, incentive structures, rights management, and curation workflows. Use when planning campaigns that encourage customers to create content for your brand."
+  },
+  {
+    "name": "waitlist-builder",
+    "category": "Email Marketing & Automation",
+    "description": "Creates waitlist landing pages and email sequences to build demand before product availability. Use when launching a product and want to build anticipation."
+  },
+  {
+    "name": "webinar-email-sequence",
+    "category": "Email Marketing & Automation",
+    "description": "Writes pre-webinar, reminder, live, replay, and follow-up email sequences with registration optimization. Use when promoting and following up on webinars."
+  },
+  {
+    "name": "welcome-sequence",
+    "category": "Email Marketing & Automation",
+    "description": "Builds new customer and subscriber welcome experiences with email series, onboarding steps, and quick wins. Use when a user has new subscribers joining an email list, customers purchasing a product, or members signing up for a program and needs a structured first-impression sequence."
+  },
+  {
+    "name": "win-back-campaign",
+    "category": "Email Marketing & Automation",
+    "description": "Builds re-engagement email and message sequences to win back churned subscribers, lapsed customers, or inactive users with personalized triggers, incentive strategies, and graceful exit paths. Use when a user has inactive email subscribers, lapsed customers who stopped buying, or churned users they want to re-engage."
+  },
+  {
+    "name": "award-application",
+    "category": "Events & Speaking",
+    "description": "Writes business award applications with narrative sections, metric evidence, and supporting documentation checklists. Use when applying for industry or business awards."
+  },
+  {
+    "name": "beta-launch-plan",
+    "category": "Events & Speaking",
+    "description": "Plans beta launches with user recruitment, feedback collection, bug reporting, and iteration cycles. Use when preparing to launch a product or feature in beta."
+  },
+  {
+    "name": "catering-proposal",
+    "category": "Events & Speaking",
+    "description": "Writes catering proposals with menu options, pricing tiers, service descriptions, and logistics details. Use when bidding on catering jobs or formalizing catering offers."
+  },
+  {
+    "name": "conference-planner",
+    "category": "Events & Speaking",
+    "description": "Plans multi-day conferences with tracks, speaker management, logistics, sponsorship, and attendee experience design."
+  },
+  {
+    "name": "digital-product-plan",
+    "category": "Events & Speaking",
+    "description": "Plans digital product creation (templates, tools, resources) with market validation, pricing, and distribution. Use when building downloadable products for passive income."
+  },
+  {
+    "name": "event-budget-planner",
+    "category": "Events & Speaking",
+    "description": "Creates event budgets with line items, contingency planning, sponsor offset calculations, and ROI projections."
+  },
+  {
+    "name": "event-follow-up",
+    "category": "Events & Speaking",
+    "description": "Creates post-event follow-up sequences with thank-you emails, survey distribution, content delivery, and nurture paths."
+  },
+  {
+    "name": "event-marketing-plan",
+    "category": "Events & Speaking",
+    "description": "Creates event marketing campaigns with timeline, channels, early bird promotions, and attendance forecasting."
+  },
+  {
+    "name": "event-planner",
+    "category": "Events & Speaking",
+    "description": "Plans virtual and in-person events with detailed checklists, timelines, run-of-show documents, promotional copy, and attendee communications, with optional planning pages in Notion. Use when a user is organizing a workshop, conference, meetup, launch party, networking event, or any event that needs structured planning and communication materials."
+  },
+  {
+    "name": "event-registration-page",
+    "category": "Events & Speaking",
+    "description": "Writes event registration page copy with agenda highlights, speaker bios, pricing tiers, and urgency elements."
+  },
+  {
+    "name": "event-run-of-show",
+    "category": "Events & Speaking",
+    "description": "Creates detailed run-of-show documents with minute-by-minute timing, cues, transitions, and contingency plans."
+  },
+  {
+    "name": "event-sponsorship-proposal",
+    "category": "Events & Speaking",
+    "description": "Creates event sponsorship proposals with tier packages, benefits, audience data, and activation opportunities."
+  },
+  {
+    "name": "hybrid-event-plan",
+    "category": "Events & Speaking",
+    "description": "Plans hybrid events with in-person and virtual audience coordination, tech setup, and unified experience design."
+  },
+  {
+    "name": "launch-assets",
+    "category": "Events & Speaking",
+    "description": "Builds a complete product or service launch package with a structured checklist in Notion and coordinated visual assets in Canva, including social media graphics, announcement images, and email headers. Use when a user is preparing to launch a product, course, service, or campaign and needs both the planning checklist and the visual assets created together."
+  },
+  {
+    "name": "launch-checklist",
+    "category": "Events & Speaking",
+    "description": "Builds comprehensive pre-launch and post-launch checklists with dependencies and go/no-go gates. Use this skill when a user is launching a product, course, service, website, or campaign and needs to ensure nothing slips through the cracks during the launch process."
+  },
+  {
+    "name": "marketplace-launch-plan",
+    "category": "Events & Speaking",
+    "description": "Plans two-sided marketplace launches with supply/demand seeding, trust-building features, and growth mechanics. Use when launching a platform connecting buyers and sellers."
+  },
+  {
+    "name": "networking-event-plan",
+    "category": "Events & Speaking",
+    "description": "Plans networking events with icebreaker activities, facilitation guides, and connection-making structures."
+  },
+  {
+    "name": "product-hunt-launch",
+    "category": "Events & Speaking",
+    "description": "Plans Product Hunt launches with teaser strategy, maker comments, upvote coordination, and post-launch follow-up. Use when launching a product on Product Hunt."
+  },
+  {
+    "name": "product-launch-plan",
+    "category": "Events & Speaking",
+    "description": "Plans product launches with teaser campaigns, launch day tactics, and post-launch optimization for existing e-commerce stores."
+  },
+  {
+    "name": "retreat-planner",
+    "category": "Events & Speaking",
+    "description": "Plans wellness retreats with itinerary, accommodation logistics, activity scheduling, and participant communications."
+  },
+  {
+    "name": "speaker-outreach",
+    "category": "Events & Speaking",
+    "description": "Writes speaker recruitment emails with event details, compensation, audience profile, and logistics information."
+  },
+  {
+    "name": "speaking-proposal",
+    "category": "Events & Speaking",
+    "description": "Creates conference speaking proposals with talk descriptions, speaker bios, audience takeaways, and AV requirements."
+  },
+  {
+    "name": "sponsor-thank-you",
+    "category": "Events & Speaking",
+    "description": "Creates sponsor and donor thank-you communications with personalization, impact updates, and continued engagement."
+  },
+  {
+    "name": "virtual-event-platform",
+    "category": "Events & Speaking",
+    "description": "Plans virtual event setups with platform selection criteria, engagement features, and technical requirements."
+  },
+  {
+    "name": "bookkeeping-setup",
+    "category": "Finance & Pricing",
+    "description": "Sets up bookkeeping systems with chart of accounts, transaction categories, and reconciliation procedures. Use when establishing or organizing business bookkeeping."
+  },
+  {
+    "name": "breakeven-analysis",
+    "category": "Finance & Pricing",
+    "description": "Performs break-even analyses with fixed/variable cost breakdowns, margin calculations, and scenario modeling. Use when determining how many sales you need to cover costs."
+  },
+  {
+    "name": "budget-planner",
+    "category": "Finance & Pricing",
+    "description": "Creates monthly and annual business budgets with category breakdowns, variance tracking, and adjustment triggers. Use when building or revising a business budget."
+  },
+  {
+    "name": "cash-flow-forecast",
+    "category": "Finance & Pricing",
+    "description": "Projects monthly cash flow for 3-12 months from revenue and expense inputs with scenario modeling and runway calculations. Use when a user needs to plan spending, evaluate whether they can afford a hire or investment, or wants to understand when they'll run out of (or accumulate) cash."
+  },
+  {
+    "name": "commission-structure",
+    "category": "Finance & Pricing",
+    "description": "Designs sales commission structures with tiers, accelerators, clawback provisions, and payout schedules. Use when creating or revising compensation plans for sales roles."
+  },
+  {
+    "name": "compensation-plan",
+    "category": "Finance & Pricing",
+    "description": "Designs compensation plans with salary bands, bonus structures, equity frameworks, and market benchmarking for competitive hiring."
+  },
+  {
+    "name": "cost-analysis",
+    "category": "Finance & Pricing",
+    "description": "Performs cost-of-goods-sold and cost-per-unit analyses with margin calculations and optimization recommendations. Use when analyzing product or service costs."
+  },
+  {
+    "name": "expense-tracker",
+    "category": "Finance & Pricing",
+    "description": "Creates an expense tracking and categorization system in Notion with transaction records, category breakdowns, monthly summaries, and tax-deduction flagging for freelancers and small businesses. Use when a user needs to track business expenses, wants to replace spreadsheet-based bookkeeping, or needs to organize receipts and transactions for tax time."
+  },
+  {
+    "name": "financial-dashboard",
+    "category": "Finance & Pricing",
+    "description": "Creates a financial KPI tracking dashboard structure with revenue, expenses, margins, runway, and trend analysis. Use this skill when a business owner wants a single view of their financial health, needs to set up KPI tracking, or wants to monitor financial metrics consistently."
+  },
+  {
+    "name": "financial-model",
+    "category": "Finance & Pricing",
+    "description": "Builds financial models for startups with revenue drivers, cost assumptions, and sensitivity analysis. Use when creating detailed financial models for fundraising or planning."
+  },
+  {
+    "name": "financial-projection",
+    "category": "Finance & Pricing",
+    "description": "Builds 12-month financial projections with revenue scenarios, expense forecasting, and break-even analysis. Use when planning future revenue and expenses for your business."
+  },
+  {
+    "name": "freelance-rate-card",
+    "category": "Finance & Pricing",
+    "description": "Calculates freelance rates based on expenses, desired income, and market positioning with rate card formatting. Use when setting or updating your freelance pricing."
+  },
+  {
+    "name": "fundraising-tracker",
+    "category": "Finance & Pricing",
+    "description": "Creates fundraising pipeline trackers with investor stages, valuation calculations, and term sheet comparisons. Use when managing an active fundraising process."
+  },
+  {
+    "name": "grant-application",
+    "category": "Finance & Pricing",
+    "description": "Writes small business grant applications with narrative sections, budget justification, and impact statements. Use when applying for business grants or funding."
+  },
+  {
+    "name": "investor-update",
+    "category": "Finance & Pricing",
+    "description": "Creates monthly investor update emails with metrics, highlights, challenges, and asks in a standard format. Use when sending regular updates to investors or advisors."
+  },
+  {
+    "name": "invoice-template",
+    "category": "Finance & Pricing",
+    "description": "Generates professional invoice documents with line items, tax calculations, payment terms, and late payment policies, plus a reusable template for future invoices. Use when a user needs to create an invoice, set up a billing system, or standardize their invoicing process as a freelancer or small business owner."
+  },
+  {
+    "name": "pricing-analysis",
+    "category": "Finance & Pricing",
+    "description": "Analyzes pricing effectiveness with elasticity estimates, competitor benchmarking, value perception, and optimization recommendations. Use when evaluating or adjusting your pricing."
+  },
+  {
+    "name": "pricing-calculator",
+    "category": "Finance & Pricing",
+    "description": "Builds pricing models, comparison tables, and rate calculators for services, products, and subscriptions with profit margin analysis and competitive positioning. Use when a user needs to set prices for their offerings, wants to create tiered pricing, or needs to calculate freelance rates, project fees, or subscription pricing."
+  },
+  {
+    "name": "pricing-strategy",
+    "category": "Finance & Pricing",
+    "description": "Develops pricing strategies with market positioning, perceived value analysis, and price sensitivity testing. Use when setting or revising prices for products or services."
+  },
+  {
+    "name": "profit-loss-report",
+    "category": "Finance & Pricing",
+    "description": "Generates monthly or quarterly profit and loss statements from transaction data with revenue breakdowns, expense categories, and margin analysis. Use this skill when a solopreneur or small business owner needs to understand if they are actually profitable, wants a formatted P&L report, or needs to review financial performance over a period."
+  },
+  {
+    "name": "quarterly-review",
+    "category": "Finance & Pricing",
+    "description": "Creates quarterly business review documents with metric analysis, goal tracking, and strategic adjustments. Use when conducting end-of-quarter business performance reviews."
+  },
+  {
+    "name": "rate-negotiation-script",
+    "category": "Finance & Pricing",
+    "description": "Creates rate negotiation scripts for freelancers and consultants with value anchoring and objection responses."
+  },
+  {
+    "name": "revenue-forecast",
+    "category": "Finance & Pricing",
+    "description": "Projects revenue with multiple scenarios using historical data and market factors. Use when forecasting future revenue for planning or reporting."
+  },
+  {
+    "name": "roi-calculator",
+    "category": "Finance & Pricing",
+    "description": "Builds ROI calculators for business decisions with cost inputs, benefit projections, and payback period analysis. Use when evaluating whether a business investment is worth it."
+  },
+  {
+    "name": "subscription-metrics",
+    "category": "Finance & Pricing",
+    "description": "Calculates and reports on subscription metrics including MRR, ARR, churn rate, LTV, and CAC. Use when tracking the health of a subscription-based business."
+  },
+  {
+    "name": "tax-deduction-finder",
+    "category": "Finance & Pricing",
+    "description": "Identifies commonly missed business tax deductions by industry and entity type with category lists and documentation requirements. Use this skill when a freelancer or small business owner is preparing for tax season, wants to reduce their tax bill, or needs to know what business expenses are deductible."
+  },
+  {
+    "name": "tax-prep-checklist",
+    "category": "Finance & Pricing",
+    "description": "Creates tax preparation checklists organized by entity type with document gathering and deadline tracking. Use when preparing for business tax filing season."
+  },
+  {
+    "name": "unit-economics",
+    "category": "Finance & Pricing",
+    "description": "Calculates unit economics for products and services with contribution margin, payback period, and LTV:CAC ratios. Use when evaluating the profitability of each customer or unit."
+  },
+  {
+    "name": "annual-review",
+    "category": "HR & Team",
+    "description": "Compiles annual business reviews with year-over-year metrics, milestone highlights, lessons learned, and strategic goals for the upcoming year. Use when a user needs to reflect on their business year, wants to create a year-in-review document for stakeholders, or is setting annual goals and needs to assess where they stand."
+  },
+  {
+    "name": "benefits-guide",
+    "category": "HR & Team",
+    "description": "Writes employee benefits guides explaining health insurance, retirement plans, PTO, and perks in plain language. Use when onboarding new hires or updating benefits documentation."
+  },
+  {
+    "name": "contractor-brief",
+    "category": "HR & Team",
+    "description": "Writes detailed contractor briefs with scope, deliverables, timeline, communication expectations, and payment terms for clear engagements."
+  },
+  {
+    "name": "culture-document",
+    "category": "HR & Team",
+    "description": "Writes company culture documents with values, behaviors, rituals, and how culture shows up in daily work for team alignment."
+  },
+  {
+    "name": "diversity-policy",
+    "category": "HR & Team",
+    "description": "Writes diversity, equity, and inclusion policies with commitments, programs, accountability measures, and implementation timelines. Use when building or updating your company DEI framework."
+  },
+  {
+    "name": "employee-handbook",
+    "category": "HR & Team",
+    "description": "Creates employee or contractor handbooks with company policies, expectations, benefits, communication guidelines, and operational procedures in a professional yet approachable tone. Use when a user is hiring their first employee, onboarding contractors, scaling their team, or needs to formalize workplace policies."
+  },
+  {
+    "name": "employee-survey",
+    "category": "HR & Team",
+    "description": "Creates employee engagement surveys with anonymous feedback mechanisms, question categories, rating scales, and action planning frameworks. Use when measuring team satisfaction or culture."
+  },
+  {
+    "name": "exit-interview-template",
+    "category": "HR & Team",
+    "description": "Creates exit interview question templates with themed categories for identifying retention issues, improvement areas, and actionable insights. Use when an employee is departing."
+  },
+  {
+    "name": "freelancer-management",
+    "category": "HR & Team",
+    "description": "Creates systems for managing multiple freelancers with briefing templates, feedback processes, payment workflows, and quality control. Use when scaling with contract talent."
+  },
+  {
+    "name": "hiring-scorecard",
+    "category": "HR & Team",
+    "description": "Creates structured interview scorecards with competency ratings, question banks, and evaluation rubrics for objective hiring decisions."
+  },
+  {
+    "name": "interview-question-bank",
+    "category": "HR & Team",
+    "description": "Creates role-specific interview question banks with behavioral, situational, and technical categories for structured hiring interviews."
+  },
+  {
+    "name": "job-posting",
+    "category": "HR & Team",
+    "description": "Writes compelling job descriptions and hiring ads with role summaries, responsibilities, requirements, benefits, and application instructions optimized for job boards and social media. Use when a user needs to hire employees or contractors, wants to post on job boards, or needs a role description for their careers page."
+  },
+  {
+    "name": "mentorship-program",
+    "category": "HR & Team",
+    "description": "Designs mentorship programs with matching criteria, meeting structures, goal frameworks, and progress tracking."
+  },
+  {
+    "name": "offboarding-checklist",
+    "category": "HR & Team",
+    "description": "Creates offboarding procedures with access revocation, knowledge transfer, equipment return, and exit interview templates for clean transitions."
+  },
+  {
+    "name": "offer-letter",
+    "category": "HR & Team",
+    "description": "Drafts employment offer letters with position details, compensation, benefits, start date, and key terms for professional hiring communication."
+  },
+  {
+    "name": "okr-builder",
+    "category": "HR & Team",
+    "description": "Creates OKR frameworks with objective setting, key result definition, scoring rubrics, and progress tracking for goal-driven businesses."
+  },
+  {
+    "name": "onboarding-checklist",
+    "category": "HR & Team",
+    "description": "Creates employee or contractor onboarding checklists with day-by-day tasks, tool access setup, and training schedules for smooth starts."
+  },
+  {
+    "name": "one-on-one-template",
+    "category": "HR & Team",
+    "description": "Designs 1:1 meeting templates with check-in questions, career development discussion, and action items for effective manager conversations."
+  },
+  {
+    "name": "performance-review",
+    "category": "HR & Team",
+    "description": "Builds performance review templates with self-assessment sections, manager feedback, goal setting, and development planning for team growth."
+  },
+  {
+    "name": "pip-template",
+    "category": "HR & Team",
+    "description": "Creates performance improvement plan templates with specific goals, timeline, resources, and consequences for underperforming team members."
+  },
+  {
+    "name": "referral-bonus-plan",
+    "category": "HR & Team",
+    "description": "Designs employee referral bonus programs with incentive tiers, eligibility rules, payout timelines, and tracking systems. Use when building a referral-based hiring pipeline."
+  },
+  {
+    "name": "remote-team-handbook",
+    "category": "HR & Team",
+    "description": "Writes handbooks for remote teams covering tools, communication norms, time zones, async practices, and collaboration guidelines. Use when building or scaling a distributed team."
+  },
+  {
+    "name": "remote-work-policy",
+    "category": "HR & Team",
+    "description": "Creates comprehensive remote work policies with expectations, tools, communication norms, and performance standards for distributed teams."
+  },
+  {
+    "name": "succession-plan",
+    "category": "HR & Team",
+    "description": "Creates succession planning frameworks for key roles with readiness assessments, development paths, risk analysis, and transition timelines. Use when preparing for leadership continuity."
+  },
+  {
+    "name": "team-building-plan",
+    "category": "HR & Team",
+    "description": "Plans team building activities and events with objectives, activity options, budget considerations, logistics, and follow-up evaluation. Use when organizing team bonding, offsites, or morale-boosting events."
+  },
+  {
+    "name": "team-charter",
+    "category": "HR & Team",
+    "description": "Creates team charters with mission, roles, decision-making processes, and communication agreements for aligned and effective teamwork."
+  },
+  {
+    "name": "training-manual",
+    "category": "HR & Team",
+    "description": "Writes training manuals with step-by-step instructions, visual aids, knowledge checks, and reference sections."
+  },
+  {
+    "name": "training-plan",
+    "category": "HR & Team",
+    "description": "Designs employee training programs with learning objectives, curriculum structure, delivery methods, assessment criteria, and completion tracking. Use when upskilling your team."
+  },
+  {
+    "name": "api-documentation",
+    "category": "Industry-Specific",
+    "description": "Creates API documentation templates with endpoint descriptions, request/response examples, and authentication guides. Use when documenting REST APIs for developers."
+  },
+  {
+    "name": "health-disclaimer",
+    "category": "Industry-Specific",
+    "description": "Creates health and fitness disclaimers with liability protection, medical advice boundaries, and consent forms."
+  },
+  {
+    "name": "no-code-app-plan",
+    "category": "Industry-Specific",
+    "description": "Plans no-code application builds with tool selection, feature mapping, and user flow design. Use when building apps or tools without writing code."
+  },
+  {
+    "name": "platform-help-center",
+    "category": "Industry-Specific",
+    "description": "Structures platform help centers with separate buyer/seller sections, video tutorials, and contact escalation. Use when building self-serve support for marketplace platforms."
+  },
+  {
+    "name": "platform-partnership",
+    "category": "Industry-Specific",
+    "description": "Designs platform partnership programs with integration benefits, co-marketing, and revenue sharing. Use when building strategic partnerships for marketplace or SaaS platforms."
+  },
+  {
+    "name": "platform-trust-system",
+    "category": "Industry-Specific",
+    "description": "Designs trust and safety systems with review policies, dispute resolution, and fraud prevention measures. Use when building trust infrastructure for marketplace platforms."
+  },
+  {
+    "name": "restaurant-marketing-plan",
+    "category": "Industry-Specific",
+    "description": "Plans restaurant marketing with local SEO, social media content, loyalty programs, and seasonal promotions. Use when growing a restaurant's customer base and revenue."
+  },
+  {
+    "name": "restaurant-review-response",
+    "category": "Industry-Specific",
+    "description": "Writes professional restaurant review responses for positive, negative, and mixed reviews across platforms. Use when managing online reputation for a food business."
+  },
+  {
+    "name": "restaurant-sop",
+    "category": "Industry-Specific",
+    "description": "Builds restaurant SOPs for kitchen operations, front-of-house service, food safety, and opening/closing procedures. Use when standardizing restaurant operations."
+  },
+  {
+    "name": "saas-evaluation",
+    "category": "Industry-Specific",
+    "description": "Evaluates SaaS tools for business adoption with feature comparison, pricing analysis, and migration planning. Use when choosing between software options for your business."
+  },
+  {
+    "name": "seasonal-menu-plan",
+    "category": "Industry-Specific",
+    "description": "Plans seasonal menu rotations with ingredient sourcing, pricing adjustments, and launch marketing. Use when updating restaurant menus for seasonal relevance."
+  },
+  {
+    "name": "supplement-disclaimer",
+    "category": "Industry-Specific",
+    "description": "Writes supplement and product disclaimers with FDA compliance language and health claim boundaries."
+  },
+  {
+    "name": "tech-stack-recommendation",
+    "category": "Industry-Specific",
+    "description": "Recommends tech stacks for specific business types with tool selection rationale, costs, and implementation order. Use when building your business software foundation."
+  },
+  {
+    "name": "tenant-screening-checklist",
+    "category": "Industry-Specific",
+    "description": "Creates tenant screening checklists with verification steps, reference check questions, and evaluation criteria."
+  },
+  {
+    "name": "tool-stack-audit",
+    "category": "Industry-Specific",
+    "description": "Audits business technology stacks for redundancy, cost optimization, and integration opportunities. Use when reviewing and optimizing your business software spend."
+  },
+  {
+    "name": "annual-report-writer",
+    "category": "Launch & Growth",
+    "description": "Creates annual reports for stakeholders with narrative sections, metric highlights, and forward-looking statements. Use when summarizing yearly performance for investors, partners, or your team."
+  },
+  {
+    "name": "chatbot-script",
+    "category": "Launch & Growth",
+    "description": "Designs chatbot conversation flows with decision trees, handoff triggers, and fallback responses for automated customer interactions."
+  },
+  {
+    "name": "churn-analysis",
+    "category": "Launch & Growth",
+    "description": "Diagnoses customer churn patterns and creates retention intervention strategies with warning signals, win-back triggers, and prevention playbooks. Use when a user is losing customers or subscribers, wants to understand why people leave, or needs to reduce churn rate for a subscription or recurring service."
+  },
+  {
+    "name": "churn-prevention-playbook",
+    "category": "Launch & Growth",
+    "description": "Creates churn prevention playbooks with early warning indicators, intervention sequences, and save offer strategies. Use when reducing customer churn in subscription businesses."
+  },
+  {
+    "name": "complaint-resolution",
+    "category": "Launch & Growth",
+    "description": "Creates complaint resolution frameworks with empathy scripts, escalation paths, recovery offers, and follow-up procedures for customer retention."
+  },
+  {
+    "name": "customer-advisory-board",
+    "category": "Launch & Growth",
+    "description": "Plans customer advisory board programs with recruitment criteria, meeting structure, and feedback integration processes for strategic input."
+  },
+  {
+    "name": "customer-health-score",
+    "category": "Launch & Growth",
+    "description": "Designs customer health scoring models with engagement metrics, risk indicators, and intervention triggers to prevent churn proactively."
+  },
+  {
+    "name": "customer-success-playbook",
+    "category": "Launch & Growth",
+    "description": "Creates customer success playbooks with lifecycle stages, touchpoint cadence, and expansion opportunity identification for retention and growth."
+  },
+  {
+    "name": "customer-support-kb",
+    "category": "Launch & Growth",
+    "description": "Builds a complete customer support knowledge base with tiered FAQs, canned response templates, troubleshooting decision trees, and escalation protocols. Use when a user needs to systematize customer support, reduce response times, onboard support staff, or stop answering the same questions repeatedly."
+  },
+  {
+    "name": "customer-win-story",
+    "category": "Launch & Growth",
+    "description": "Transforms customer successes into internal win stories with metrics, timeline, and key moments for team motivation and learning."
+  },
+  {
+    "name": "feature-request-system",
+    "category": "Launch & Growth",
+    "description": "Designs feature request collection and prioritization systems with voting, tagging, and roadmap integration. Use when organizing customer input into product decisions."
+  },
+  {
+    "name": "nps-survey",
+    "category": "Launch & Growth",
+    "description": "Creates Net Promoter Score surveys with follow-up questions, segmentation logic, and response action plans to measure customer loyalty."
+  },
+  {
+    "name": "onboarding-flow",
+    "category": "Launch & Growth",
+    "description": "Designs customer onboarding flows with welcome steps, milestone triggers, and success checkpoints to reduce churn and speed time-to-value."
+  },
+  {
+    "name": "product-feedback-loop",
+    "category": "Launch & Growth",
+    "description": "Designs product feedback loops connecting customer input to product decisions with transparency and communication. Use when systematizing how feedback drives your roadmap."
+  },
+  {
+    "name": "review-response",
+    "category": "Launch & Growth",
+    "description": "Writes professional responses to positive and negative online reviews across Google, Yelp, and social platforms to build trust and reputation."
+  },
+  {
+    "name": "saas-cancellation-flow",
+    "category": "Launch & Growth",
+    "description": "Designs cancellation flows with retention offers, feedback collection, and win-back sequence triggers. Use when building or optimizing subscription cancellation experiences."
+  },
+  {
+    "name": "saas-onboarding-flow",
+    "category": "Launch & Growth",
+    "description": "Designs SaaS user onboarding flows with activation milestones, tooltip sequences, and success metrics. Use when building or improving new user onboarding experiences."
+  },
+  {
+    "name": "satisfaction-survey",
+    "category": "Launch & Growth",
+    "description": "Creates customer satisfaction (CSAT) surveys with touchpoint-specific questions and benchmarking frameworks for measuring service quality."
+  },
+  {
+    "name": "self-service-portal",
+    "category": "Launch & Growth",
+    "description": "Designs self-service portal structures with knowledge base, ticketing, account management, and resource libraries for customer independence."
+  },
+  {
+    "name": "service-level-agreement",
+    "category": "Launch & Growth",
+    "description": "Drafts service level agreements with response times, uptime commitments, penalty and credit structures, and performance metrics."
+  },
+  {
+    "name": "service-recovery-plan",
+    "category": "Launch & Growth",
+    "description": "Designs service recovery protocols for when things go wrong with response scripts, compensation guidelines, and follow-up procedures."
+  },
+  {
+    "name": "support-response-templates",
+    "category": "Launch & Growth",
+    "description": "Writes customer support response templates for common scenarios with tone guidelines, personalization cues, and escalation triggers."
+  },
+  {
+    "name": "user-research-plan",
+    "category": "Launch & Growth",
+    "description": "Plans user research studies with recruitment, interview scripts, survey design, and insight synthesis frameworks. Use when gathering customer insights to inform decisions."
+  },
+  {
+    "name": "voice-of-customer",
+    "category": "Launch & Growth",
+    "description": "Builds Voice of Customer programs with collection methods, analysis frameworks, and insight distribution to drive customer-centric decisions."
+  },
+  {
+    "name": "accessibility-policy",
+    "category": "Legal & Compliance",
+    "description": "Writes website accessibility policies with WCAG compliance commitments and accommodation procedures. Use when creating an accessibility statement for your website."
+  },
+  {
+    "name": "cease-and-desist",
+    "category": "Legal & Compliance",
+    "description": "Drafts cease and desist letters for IP infringement, defamation, or contract violations. Use when you need to formally demand someone stop harmful activity."
+  },
+  {
+    "name": "client-agreement",
+    "category": "Legal & Compliance",
+    "description": "Drafts client service agreements with scope, deliverables, timelines, revisions, and payment terms. Use when creating contracts for client engagements."
+  },
+  {
+    "name": "compliance-checklist",
+    "category": "Legal & Compliance",
+    "description": "Creates industry-specific regulatory compliance checklists with documentation requirements and audit preparation. Use when ensuring your business meets regulatory obligations."
+  },
+  {
+    "name": "contract-writer",
+    "category": "Legal & Compliance",
+    "description": "Drafts service agreements, freelance contracts, and partnership agreements with standard clauses and plain-language annotations explaining each section. Use when a user needs a professional contract template, wants to formalize a client relationship, or needs a starting point for legal review."
+  },
+  {
+    "name": "cookie-policy",
+    "category": "Legal & Compliance",
+    "description": "Writes cookie consent policies with category descriptions, opt-out mechanisms, and GDPR/CCPA compliance. Use when creating or updating your website's cookie policy."
+  },
+  {
+    "name": "copyright-notice",
+    "category": "Legal & Compliance",
+    "description": "Creates copyright notices and policies for digital content with DMCA procedures and fair use guidelines. Use when protecting original content and establishing copyright policies."
+  },
+  {
+    "name": "data-processing-agreement",
+    "category": "Legal & Compliance",
+    "description": "Drafts data processing agreements for GDPR compliance with processing details and security measures. Use when you process personal data on behalf of another business."
+  },
+  {
+    "name": "disclaimer-generator",
+    "category": "Legal & Compliance",
+    "description": "Generates legal disclaimers for websites, products, and services with liability limitations and warranty exclusions. Use when adding disclaimers to your business properties."
+  },
+  {
+    "name": "expense-policy",
+    "category": "Legal & Compliance",
+    "description": "Creates corporate expense policies with spending limits, approval workflows, and reimbursement procedures. Use when establishing rules for business spending and reimbursements."
+  },
+  {
+    "name": "gdpr-compliance-checklist",
+    "category": "Legal & Compliance",
+    "description": "Creates GDPR compliance checklists with data mapping, consent mechanisms, and breach response procedures. Use when ensuring your business complies with GDPR requirements."
+  },
+  {
+    "name": "independent-contractor-agreement",
+    "category": "Legal & Compliance",
+    "description": "Creates independent contractor agreements with scope, payment, IP ownership, and non-compete clauses. Use when hiring freelancers or contractors for your business."
+  },
+  {
+    "name": "intellectual-property-audit",
+    "category": "Legal & Compliance",
+    "description": "Audits IP assets with trademark, copyright, trade secret, and patent inventory and protection recommendations. Use when assessing and organizing your business IP portfolio."
+  },
+  {
+    "name": "letter-of-intent",
+    "category": "Legal & Compliance",
+    "description": "Creates letters of intent for business transactions with key terms, conditions, and timeline. Use when formalizing preliminary agreement on a business deal."
+  },
+  {
+    "name": "licensing-agreement",
+    "category": "Legal & Compliance",
+    "description": "Drafts content and product licensing agreements with usage rights, royalty structures, exclusivity terms, and territory definitions. Use this skill when a creator wants to license their intellectual property, photos, courses, templates, music, or digital products to another party."
+  },
+  {
+    "name": "nda-template",
+    "category": "Legal & Compliance",
+    "description": "Generates mutual and unilateral NDA templates with customizable confidentiality terms, exclusions, and duration. Use this skill when a user needs a non-disclosure agreement for sharing sensitive information with potential partners, contractors, investors, or collaborators."
+  },
+  {
+    "name": "non-compete-agreement",
+    "category": "Legal & Compliance",
+    "description": "Creates non-compete agreements with reasonable scope, duration, geographic limits, and enforceability notes. Use when protecting business interests from competition."
+  },
+  {
+    "name": "partnership-agreement",
+    "category": "Legal & Compliance",
+    "description": "Drafts business partnership agreements with roles, profit sharing, decision-making, and exit provisions. Use when forming a business partnership or joint venture."
+  },
+  {
+    "name": "payment-terms-policy",
+    "category": "Legal & Compliance",
+    "description": "Creates payment terms and collections policies with net terms, late fee structures, and escalation procedures. Use when establishing how and when clients must pay."
+  },
+  {
+    "name": "privacy-policy",
+    "category": "Legal & Compliance",
+    "description": "Writes GDPR and CCPA-compliant privacy policies for websites, apps, and online businesses with plain-language annotations explaining each section. Use when a user is launching a website, setting up e-commerce, collecting customer data, or needs to update an outdated privacy policy."
+  },
+  {
+    "name": "retainer-agreement",
+    "category": "Legal & Compliance",
+    "description": "Drafts retainer agreement templates with scope, hours, rollover policies, and termination terms for service providers."
+  },
+  {
+    "name": "return-policy",
+    "category": "Legal & Compliance",
+    "description": "Writes clear, customer-friendly return and refund policies for e-commerce stores, digital products, and service businesses with plain-language clauses and platform-specific formatting. Use when a user needs a return policy for their online store, wants to update their refund terms, or needs policies for digital products, subscriptions, or services."
+  },
+  {
+    "name": "saas-agreement",
+    "category": "Legal & Compliance",
+    "description": "Drafts SaaS subscription agreements with service levels, data ownership, and termination provisions. Use when creating terms for a software-as-a-service product."
+  },
+  {
+    "name": "shipping-policy",
+    "category": "Legal & Compliance",
+    "description": "Writes clear shipping and delivery policies with rate tables, timelines, and international terms. Use this skill when a user needs a shipping policy for their e-commerce store, wants to document delivery timelines, or needs professional shipping and returns documentation for their website."
+  },
+  {
+    "name": "subcontractor-agreement",
+    "category": "Legal & Compliance",
+    "description": "Drafts subcontractor agreements with scope delegation, payment terms, and quality requirements for service businesses."
+  },
+  {
+    "name": "terms-of-service",
+    "category": "Legal & Compliance",
+    "description": "Creates terms of service documents for websites, SaaS products, and digital platforms with plain-language annotations. Use when a user is launching a website, app, or online service and needs legal terms governing usage, liability, and user conduct."
+  },
+  {
+    "name": "terms-of-use-app",
+    "category": "Legal & Compliance",
+    "description": "Creates terms of use specifically for mobile apps with license grants, restrictions, and app store compliance. Use when launching or updating a mobile application."
+  },
+  {
+    "name": "trademark-application",
+    "category": "Legal & Compliance",
+    "description": "Guides trademark application preparation with class selection, specimen requirements, and filing checklists. Use when preparing to file a trademark with the USPTO."
+  },
+  {
+    "name": "waiver-release",
+    "category": "Legal & Compliance",
+    "description": "Drafts liability waivers and release forms for events, services, and activities. Use when you need participants to acknowledge and accept risks."
+  },
+  {
+    "name": "workplace-policy",
+    "category": "Legal & Compliance",
+    "description": "Creates workplace policies covering remote work, equipment, communication, and professional conduct. Use when establishing rules and expectations for your team."
+  },
+  {
+    "name": "nonprofit-fundraising-letter",
+    "category": "Nonprofit & Community",
+    "description": "Writes fundraising appeal letters with storytelling, impact data, donation asks, and follow-up sequences."
+  },
+  {
+    "name": "volunteer-recruitment",
+    "category": "Nonprofit & Community",
+    "description": "Creates volunteer recruitment campaigns with role descriptions, application processes, and onboarding materials."
+  },
+  {
+    "name": "annual-planning",
+    "category": "Operations & Systems",
+    "description": "Facilitates annual business planning with vision setting, goal cascading, quarterly milestones, and resource allocation for focused execution."
+  },
+  {
+    "name": "batch-processing-system",
+    "category": "Operations & Systems",
+    "description": "Designs batch processing workflows for repetitive tasks like invoicing, content publishing, and reporting to save hours each week."
+  },
+  {
+    "name": "business-continuity-plan",
+    "category": "Operations & Systems",
+    "description": "Develops business continuity plans with risk assessment, recovery procedures, and communication protocols to keep operations running during crises."
+  },
+  {
+    "name": "change-management-plan",
+    "category": "Operations & Systems",
+    "description": "Creates change management plans with stakeholder analysis, communication strategy, and transition timelines for smooth business changes."
+  },
+  {
+    "name": "client-crm",
+    "category": "Operations & Systems",
+    "description": "Creates a complete client relationship management system in Notion with pipeline stages, contact records, deal values, and follow-up tracking. Use when a user wants to replace spreadsheet-based client tracking, set up a CRM without paid software, or build a sales pipeline from scratch."
+  },
+  {
+    "name": "decision-matrix",
+    "category": "Operations & Systems",
+    "description": "Creates weighted decision matrices for business choices with criteria, scoring, and recommendation logic to remove emotion from decisions."
+  },
+  {
+    "name": "delegation-framework",
+    "category": "Operations & Systems",
+    "description": "Builds task delegation systems with responsibility matrices, handoff templates, accountability tracking, and escalation protocols. Use when a solopreneur is hiring their first VA, a team lead is struggling with delegation, or an agency is scaling operations and needs clear ownership of tasks."
+  },
+  {
+    "name": "energy-management",
+    "category": "Operations & Systems",
+    "description": "Maps energy levels to task types for optimized daily scheduling with peak performance time blocks and recovery periods."
+  },
+  {
+    "name": "escalation-procedure",
+    "category": "Operations & Systems",
+    "description": "Defines escalation procedures with trigger criteria, escalation levels, response time requirements, and resolution tracking for support issues."
+  },
+  {
+    "name": "fulfillment-sop",
+    "category": "Operations & Systems",
+    "description": "Creates order fulfillment SOPs with picking, packing, shipping procedures, quality control checkpoints, and error handling. Use when standardizing your shipping operations."
+  },
+  {
+    "name": "inventory-management",
+    "category": "Operations & Systems",
+    "description": "Sets up inventory tracking systems with reorder points, supplier management, and stockout prevention for product-based businesses."
+  },
+  {
+    "name": "knowledge-base-builder",
+    "category": "Operations & Systems",
+    "description": "Structures internal knowledge bases with categories, article templates, and maintenance procedures for organized business documentation."
+  },
+  {
+    "name": "meeting-agenda",
+    "category": "Operations & Systems",
+    "description": "Builds structured meeting agendas with time allocations, discussion topics, decision items, and action item templates for productive meetings."
+  },
+  {
+    "name": "meeting-notes",
+    "category": "Operations & Systems",
+    "description": "Transforms raw meeting notes or transcripts into structured Notion pages with executive summary, key decisions, action items with owners and deadlines, and open questions. Use when a user has messy meeting notes, a transcript, or bullet points from a call and needs them organized into an actionable format in Notion."
+  },
+  {
+    "name": "morning-routine-builder",
+    "category": "Operations & Systems",
+    "description": "Designs personalized morning routines for entrepreneurs with time blocks, habits, and productivity triggers tailored to energy levels and business goals."
+  },
+  {
+    "name": "process-automation-audit",
+    "category": "Operations & Systems",
+    "description": "Identifies automation opportunities in business processes with tool recommendations, ROI estimates, and implementation priority rankings."
+  },
+  {
+    "name": "project-tracker",
+    "category": "Operations & Systems",
+    "description": "Creates a project management database in Notion with tasks, statuses, owners, due dates, and priorities, pre-populated from a project brief or scope document. Use when a user needs to set up project tracking for a new engagement, wants to replace spreadsheet-based task management, or needs a lightweight PM system without paid software."
+  },
+  {
+    "name": "quality-assurance-checklist",
+    "category": "Operations & Systems",
+    "description": "Creates QA checklists for products, services, or content with pass/fail criteria, review workflows, and quality standards documentation."
+  },
+  {
+    "name": "report-automation",
+    "category": "Operations & Systems",
+    "description": "Designs automated reporting workflows with data sources, schedules, distribution lists, and template standardization. Use when eliminating manual reporting work."
+  },
+  {
+    "name": "retrospective",
+    "category": "Operations & Systems",
+    "description": "Facilitates project and sprint retrospectives using structured frameworks like Start/Stop/Continue, 4Ls, and Sailboat, producing actionable improvement plans with owners and deadlines. Use when a user wants to learn from a completed project, improve team processes, run a post-mortem, or reflect on what went well and what did not after any initiative."
+  },
+  {
+    "name": "risk-assessment",
+    "category": "Operations & Systems",
+    "description": "Conducts business risk assessments with likelihood and impact scoring, mitigation strategies, and monitoring plans for proactive risk management."
+  },
+  {
+    "name": "scope-of-work",
+    "category": "Operations & Systems",
+    "description": "Creates detailed scope of work documents with deliverables, milestones, assumptions, and exclusions for client projects."
+  },
+  {
+    "name": "sop-builder",
+    "category": "Operations & Systems",
+    "description": "Builds standard operating procedures from a conversational interview about any business process and publishes the structured SOP to Notion. Use when a user wants to document a repeatable process, onboard team members, or systematize operations they currently do from memory."
+  },
+  {
+    "name": "status-update-template",
+    "category": "Operations & Systems",
+    "description": "Creates reusable status update templates for projects, clients, or stakeholders with progress indicators and clear formatting."
+  },
+  {
+    "name": "task-prioritization",
+    "category": "Operations & Systems",
+    "description": "Creates task prioritization frameworks using Eisenhower matrix, ICE scoring, or MoSCoW method to help entrepreneurs focus on highest-impact work."
+  },
+  {
+    "name": "time-audit",
+    "category": "Operations & Systems",
+    "description": "Analyzes time allocation across activities and recommends optimization strategies with categorization, value scoring, and reallocation plans. Use when a freelancer or solopreneur feels busy but unproductive, wants to find where their time goes, needs to free up hours for higher-value work, or suspects they are spending too much time on low-impact tasks."
+  },
+  {
+    "name": "vendor-evaluation",
+    "category": "Operations & Systems",
+    "description": "Creates structured vendor and tool comparison matrices with weighted scoring, cost analysis, and recommendation summaries for making informed purchasing decisions. Use when a user needs to choose between software tools, service providers, or vendors and wants a systematic evaluation rather than a gut decision."
+  },
+  {
+    "name": "vendor-onboarding",
+    "category": "Operations & Systems",
+    "description": "Creates vendor onboarding checklists with documentation requirements, compliance checks, and setup procedures for smooth partnerships."
+  },
+  {
+    "name": "weekly-report",
+    "category": "Operations & Systems",
+    "description": "Transforms bullet-point inputs into structured weekly reports with executive summary, metrics tables, wins, blockers with proposed solutions, and next-week priorities. Use when a user needs to compile a weekly status update, wants to present progress to clients or stakeholders, or needs to document team accomplishments and blockers."
+  },
+  {
+    "name": "workflow-mapper",
+    "category": "Operations & Systems",
+    "description": "Maps business processes into text-based flowcharts with decision points, handoffs, and timing estimates, then identifies bottlenecks and automation opportunities. Use when a user wants to document how their business actually works, find inefficiencies, visualize a process, or decide what to automate."
+  },
+  {
+    "name": "checkout-optimizer",
+    "category": "SEO & Search",
+    "description": "Audits e-commerce checkout flows and recommends friction-reduction improvements to increase conversion rates. Use this skill when a user has cart abandonment issues, low checkout completion rates, or wants to optimize their online store's purchase flow."
+  },
+  {
+    "name": "featured-snippet-optimizer",
+    "category": "SEO & Search",
+    "description": "Optimizes content to win featured snippets with format analysis, answer structure, and formatting. Use when targeting position zero in Google search results."
+  },
+  {
+    "name": "google-business-profile",
+    "category": "SEO & Search",
+    "description": "Optimizes Google Business Profile listings with categories, attributes, posts, Q&A, and review response templates. Use when improving local search presence."
+  },
+  {
+    "name": "keyword-research",
+    "category": "SEO & Search",
+    "description": "Conducts keyword research with search volume estimates, difficulty assessment, and content mapping recommendations. Use when planning SEO-driven content."
+  },
+  {
+    "name": "landing-page-audit",
+    "category": "SEO & Search",
+    "description": "Audits landing pages for conversion optimization with layout, copy, social proof, and CTA recommendations. Use when you need to improve a landing page's conversion rate or identify why a page is underperforming."
+  },
+  {
+    "name": "link-building-plan",
+    "category": "SEO & Search",
+    "description": "Designs link building strategies with outreach templates, target site lists, and content-based link earning tactics. Use when you need to improve domain authority."
+  },
+  {
+    "name": "local-seo-plan",
+    "category": "SEO & Search",
+    "description": "Creates local SEO strategies with Google Business Profile optimization, citation building, and review generation. Use when improving visibility for local searches."
+  },
+  {
+    "name": "marketplace-seo",
+    "category": "SEO & Search",
+    "description": "Plans SEO strategies for marketplace platforms with category page optimization, review schema, and internal linking. Use when driving organic traffic to a marketplace."
+  },
+  {
+    "name": "meta-tag-optimizer",
+    "category": "SEO & Search",
+    "description": "Optimizes title tags and meta descriptions for a batch of pages with character counts and CTR optimization. Use when improving your site's search appearance."
+  },
+  {
+    "name": "platform-migration",
+    "category": "SEO & Search",
+    "description": "Plans social media platform migrations with audience notification sequences, content transfer strategies, and timeline. Use when moving your audience from one platform to another."
+  },
+  {
+    "name": "product-listing-optimizer",
+    "category": "SEO & Search",
+    "description": "Optimizes e-commerce product listings with titles, bullet points, descriptions, backend keywords, and images for Amazon, Shopify, and other platforms. Use to increase conversions."
+  },
+  {
+    "name": "schema-markup-guide",
+    "category": "SEO & Search",
+    "description": "Generates schema markup recommendations with JSON-LD code for articles, products, FAQs, and local businesses. Use when adding structured data to your website."
+  },
+  {
+    "name": "seo-audit",
+    "category": "SEO & Search",
+    "description": "Conducts on-page SEO analysis with title tags, meta descriptions, heading structure, keyword gaps, and technical recommendations. Use when a user wants to improve their website's search rankings, is launching a new site, or needs to diagnose why their pages aren't ranking."
+  },
+  {
+    "name": "seo-competitor-analysis",
+    "category": "SEO & Search",
+    "description": "Analyzes competitor SEO strategies with keyword overlap, content gaps, backlink profiles, and ranking comparisons. Use when you need to benchmark against competitors."
+  },
+  {
+    "name": "seo-migration-plan",
+    "category": "SEO & Search",
+    "description": "Plans website migrations with redirect mapping, risk assessment, and monitoring checklist. Use when changing domains, platforms, or redesigning your site."
+  },
+  {
+    "name": "seo-reporting-template",
+    "category": "SEO & Search",
+    "description": "Creates SEO reporting templates with KPI tracking, ranking changes, traffic analysis, and conversion attribution. Use when building regular SEO performance reports."
+  },
+  {
+    "name": "site-architecture-plan",
+    "category": "SEO & Search",
+    "description": "Plans website information architecture with URL structure, internal linking strategy, and content hierarchy. Use when building or restructuring a website for SEO."
+  },
+  {
+    "name": "store-page-audit",
+    "category": "SEO & Search",
+    "description": "Audits e-commerce store pages for conversion optimization with layout, copy, trust signals, and technical recommendations."
+  },
+  {
+    "name": "technical-seo-checklist",
+    "category": "SEO & Search",
+    "description": "Creates technical SEO audit checklists covering crawlability, indexation, Core Web Vitals, and structured data. Use when auditing your website's technical health."
+  },
+  {
+    "name": "youtube-seo",
+    "category": "SEO & Search",
+    "description": "Optimizes YouTube videos for search with titles, descriptions, tags, chapters, and thumbnail recommendations. Use when maximizing video discoverability on YouTube."
+  },
+  {
+    "name": "business-plan",
+    "category": "Sales & Funnels",
+    "description": "Writes complete business plans with executive summary, market analysis, revenue model, and financial projections. Use when a user is starting a new venture, seeking funding, pivoting their business, or needs a structured plan to guide strategic decisions."
+  },
+  {
+    "name": "coaching-framework",
+    "category": "Sales & Funnels",
+    "description": "Builds systematized coaching session structures with intake forms, session agendas, progress tracking frameworks, and client communication templates. Use when a coach, consultant, or service provider wants to systematize their 1-on-1 client work, create a repeatable coaching process, or professionalize their client experience."
+  },
+  {
+    "name": "collaboration-agreement",
+    "category": "Sales & Funnels",
+    "description": "Drafts collaboration agreements for joint projects with scope, contribution, revenue, and IP ownership terms."
+  },
+  {
+    "name": "competitor-analysis",
+    "category": "Sales & Funnels",
+    "description": "Conducts a structured competitor analysis with comparison matrices, positioning maps, gap identification, and strategic recommendations. Use when a user wants to understand their competitive landscape, needs to differentiate their offering, or is preparing a go-to-market strategy."
+  },
+  {
+    "name": "customer-journey-map",
+    "category": "Sales & Funnels",
+    "description": "Maps the full customer journey from awareness through advocacy, identifying touchpoints, emotions, pain points, and conversion gaps. Use when a user wants to understand their customer experience end-to-end, find drop-off points, improve conversion at specific stages, or design a better onboarding/purchase flow."
+  },
+  {
+    "name": "customer-persona",
+    "category": "Sales & Funnels",
+    "description": "Creates detailed customer personas with demographics, psychographics, buying behaviors, and messaging preferences for targeted marketing."
+  },
+  {
+    "name": "customer-segmentation",
+    "category": "Sales & Funnels",
+    "description": "Segments customers by behavior, value, and needs with tailored communication strategies per segment for targeted engagement."
+  },
+  {
+    "name": "discovery-call-script",
+    "category": "Sales & Funnels",
+    "description": "Creates discovery call frameworks with qualifying questions, pain point exploration, and next-step closing. Use when you need a structured script for sales calls."
+  },
+  {
+    "name": "joint-venture-proposal",
+    "category": "Sales & Funnels",
+    "description": "Writes joint venture proposals with value exchange, revenue sharing, responsibilities, and exit terms."
+  },
+  {
+    "name": "lead-magnet",
+    "category": "Sales & Funnels",
+    "description": "Creates lead magnet content (checklists, cheat sheets, mini-guides, templates) plus the landing page copy to promote it, including headline, benefit bullets, CTA, and objection handling. Use when a user wants to grow their email list, needs a free downloadable resource, or wants to create an opt-in incentive for their audience."
+  },
+  {
+    "name": "market-research",
+    "category": "Sales & Funnels",
+    "description": "Conducts market sizing, trend analysis, audience segmentation, and opportunity assessment for business ideas and products. Use when a user is validating a new business idea, entering a new market, preparing a pitch deck, or needs data to support strategic decisions."
+  },
+  {
+    "name": "market-sizing",
+    "category": "Sales & Funnels",
+    "description": "Estimates TAM, SAM, and SOM with top-down and bottom-up methodologies, assumptions documentation, and presentation-ready outputs. Use for business plans or investor pitches."
+  },
+  {
+    "name": "membership-site-plan",
+    "category": "Sales & Funnels",
+    "description": "Plans membership site content libraries, tier structures, pricing, drip schedules, and retention strategies. Use this skill when a creator or coach wants to build recurring revenue through a membership model, needs to design tier levels, or is planning content delivery for a subscription community."
+  },
+  {
+    "name": "objection-handler",
+    "category": "Sales & Funnels",
+    "description": "Builds sales objection response playbooks with rebuttals organized by objection category, empathetic acknowledgments, and reframing techniques. Use when a user keeps hearing the same objections on sales calls, wants to train a team on handling pushback, or needs confidence dealing with price, timing, and trust concerns."
+  },
+  {
+    "name": "partnership-proposal",
+    "category": "Sales & Funnels",
+    "description": "Creates strategic partnership pitch documents with mutual value propositions, deal structures, and terms. Use this skill when a user wants to propose a joint venture, co-marketing deal, revenue share, or strategic alliance to another business."
+  },
+  {
+    "name": "pitch-deck",
+    "category": "Sales & Funnels",
+    "description": "Creates professional investor or client pitch decks in Canva from a conversational brief about the business, product, or service. Use when a user needs a presentation for fundraising, client proposals, partnership pitches, or keynote talks."
+  },
+  {
+    "name": "product-comparison",
+    "category": "Sales & Funnels",
+    "description": "Creates product comparison pages with feature matrices, pros/cons, and recommendation logic. Use this skill when a user needs to create comparison content for their website, sales materials, landing page, or blog post that helps buyers evaluate options and make confident purchase decisions."
+  },
+  {
+    "name": "product-roadmap",
+    "category": "Sales & Funnels",
+    "description": "Creates product roadmaps in Notion with milestones, feature priorities, release timelines, and status tracking for SaaS products, apps, courses, or any product with iterative development. Use when a user needs to plan product development, wants to communicate a roadmap to stakeholders, or needs to prioritize features for upcoming releases."
+  },
+  {
+    "name": "proposal-writer",
+    "category": "Sales & Funnels",
+    "description": "Generates complete client proposals from a conversational scope discussion, producing a professional document with executive summary, problem statement, proposed solution, deliverables, pricing, timeline, and terms. Use when a user needs to send a proposal to a prospect, formalize a project scope, or respond to an RFP."
+  },
+  {
+    "name": "revenue-model",
+    "category": "Sales & Funnels",
+    "description": "Designs revenue models with pricing tiers, unit economics, LTV calculations, and growth projections. Use when planning or validating your business revenue strategy."
+  },
+  {
+    "name": "sales-battlecard",
+    "category": "Sales & Funnels",
+    "description": "Creates competitive sales battlecards with objection responses, feature comparisons, and win/loss insights. Use when your team needs to sell against competitors."
+  },
+  {
+    "name": "sales-deck",
+    "category": "Sales & Funnels",
+    "description": "Creates sales presentation decks with discovery integration, ROI slides, and competitive positioning. Use when you need a persuasive slide deck for sales meetings."
+  },
+  {
+    "name": "sales-email-template",
+    "category": "Sales & Funnels",
+    "description": "Writes individual sales email templates for follow-up, proposal, negotiation, and close scenarios. Use when you need ready-to-send sales emails for specific situations."
+  },
+  {
+    "name": "sales-funnel-builder",
+    "category": "Sales & Funnels",
+    "description": "Maps complete sales funnels with stages, conversion points, content, and optimization opportunities. Use when you need to design or audit your customer acquisition path."
+  },
+  {
+    "name": "sales-script",
+    "category": "Sales & Funnels",
+    "description": "Creates phone, video, and DM sales call scripts with discovery questions, pitch flow, objection handling, and closing techniques. Use when a user needs to prepare for sales calls, wants a repeatable sales conversation framework, or is training a team on consultative selling."
+  },
+  {
+    "name": "strategic-alliance-plan",
+    "category": "Sales & Funnels",
+    "description": "Designs strategic alliance frameworks with partner evaluation, mutual benefit mapping, and governance structure."
+  },
+  {
+    "name": "swot-analysis",
+    "category": "Sales & Funnels",
+    "description": "Conducts structured SWOT analyses with prioritized strengths, weaknesses, opportunities, and threats, cross-referenced into strategic action items. Use when a user needs to evaluate their business position, is planning a new venture, making a strategic decision, or preparing for a planning session."
+  },
+  {
+    "name": "value-proposition-canvas",
+    "category": "Sales & Funnels",
+    "description": "Maps value propositions using the Value Proposition Canvas framework with customer jobs, pains, and gains. Use when refining your product-market fit messaging."
+  },
+  {
+    "name": "webinar-sales-script",
+    "category": "Sales & Funnels",
+    "description": "Creates webinar presentation scripts designed to sell, with teaching content, transition, and pitch sections. Use when building a webinar that converts to sales."
+  },
+  {
+    "name": "win-loss-analysis",
+    "category": "Sales & Funnels",
+    "description": "Creates win/loss analysis frameworks with interview questions, pattern identification, and action plans. Use when you need to understand why deals close or fall through."
+  },
+  {
+    "name": "author-platform-plan",
+    "category": "Social Media",
+    "description": "Builds author platform plans with book promotion, speaking gigs, media appearances, and audience building."
+  },
+  {
+    "name": "brand-photography-brief",
+    "category": "Social Media",
+    "description": "Creates shot lists, mood board descriptions, and creative direction for brand photo shoots. Use this skill when a user needs to prepare for a professional photography session, plan visual content for their brand, or brief a photographer on the look and feel they want."
+  },
+  {
+    "name": "co-marketing-plan",
+    "category": "Social Media",
+    "description": "Plans co-marketing campaigns with partner selection criteria, shared content, cross-promotion tactics, and attribution."
+  },
+  {
+    "name": "community-launch",
+    "category": "Social Media",
+    "description": "Plans online community launches (Discord, Circle, Skool) with structure, rules, engagement tactics, and onboarding. Use when launching a paid or free community around your brand."
+  },
+  {
+    "name": "community-moderation",
+    "category": "Social Media",
+    "description": "Creates community moderation guidelines with rules, escalation procedures, and automated moderation recommendations. Use when establishing or improving moderation for online communities."
+  },
+  {
+    "name": "crisis-comms",
+    "category": "Social Media",
+    "description": "Creates crisis communication plans with response templates, escalation protocols, and stakeholder messaging for business emergencies. Use when a user faces a PR crisis, product failure, data breach, negative viral attention, or needs proactive crisis preparedness plans."
+  },
+  {
+    "name": "facebook-group-plan",
+    "category": "Social Media",
+    "description": "Plans Facebook Group strategy with content schedule, engagement prompts, moderation rules, and growth tactics. Use when launching or revitalizing a Facebook Group for community and lead generation."
+  },
+  {
+    "name": "food-photography-brief",
+    "category": "Social Media",
+    "description": "Creates food photography shot lists with styling direction, composition notes, and platform-specific dimensions. Use when planning photo shoots for menus, social media, or marketing."
+  },
+  {
+    "name": "guest-post-pitch",
+    "category": "Social Media",
+    "description": "Writes pitches for guest posting on target blogs with topic ideas, credentials summary, and follow-up templates. Use when you want to publish content on other websites for authority and backlinks."
+  },
+  {
+    "name": "hashtag-strategy",
+    "category": "Social Media",
+    "description": "Researches and organizes platform-specific hashtag sets by reach tier and content pillar. Use this skill when a content creator wants to maximize discoverability through strategic hashtag use on Instagram, TikTok, LinkedIn, or other platforms."
+  },
+  {
+    "name": "influencer-campaign-brief",
+    "category": "Social Media",
+    "description": "Creates detailed campaign briefs for influencer partnerships with deliverables, messaging guidelines, and approval workflows. Use when planning influencer marketing collaborations."
+  },
+  {
+    "name": "influencer-outreach",
+    "category": "Social Media",
+    "description": "Creates influencer collaboration proposals with pitch templates, compensation models, and follow-up sequences. Use this skill when a user wants to partner with content creators or influencers for brand promotion, needs outreach templates, or is planning an influencer marketing campaign."
+  },
+  {
+    "name": "instagram-carousel",
+    "category": "Social Media",
+    "description": "Plans Instagram carousel posts with slide-by-slide copy, design notes, and caption with hashtags. Use when you need educational or storytelling carousel content for Instagram."
+  },
+  {
+    "name": "linkedin-profile-optimizer",
+    "category": "Social Media",
+    "description": "Optimizes LinkedIn profiles with headline formulas, about section copywriting, experience descriptions, and keyword strategy."
+  },
+  {
+    "name": "linkedin-strategy",
+    "category": "Social Media",
+    "description": "Builds LinkedIn personal brand strategy with posting schedule, content themes, engagement tactics, and connection outreach. Use when growing your professional presence and generating leads on LinkedIn."
+  },
+  {
+    "name": "media-kit",
+    "category": "Social Media",
+    "description": "Builds influencer and creator media kits with audience stats, collaboration options, rate cards, and brand alignment sections. Use when a user wants to pitch brand partnerships, needs a professional document to share with sponsors, or is monetizing their content through collaborations."
+  },
+  {
+    "name": "meme-content-brief",
+    "category": "Social Media",
+    "description": "Creates branded meme content briefs with cultural references, brand alignment guidelines, and format templates. Use when incorporating memes into your social media content strategy."
+  },
+  {
+    "name": "menu-design-brief",
+    "category": "Social Media",
+    "description": "Creates restaurant menu design briefs with item descriptions, pricing psychology, layout hierarchy, and dietary labeling. Use when designing or redesigning a restaurant menu."
+  },
+  {
+    "name": "networking-strategy",
+    "category": "Social Media",
+    "description": "Creates strategic networking plans with target contacts, outreach templates, relationship nurture sequences, and event calendar."
+  },
+  {
+    "name": "personal-brand-strategy",
+    "category": "Social Media",
+    "description": "Creates personal branding strategies with positioning, platform selection, content pillars, and visibility plan."
+  },
+  {
+    "name": "pinterest-strategy",
+    "category": "Social Media",
+    "description": "Develops Pinterest marketing plans with board structures, pin templates, keyword research, and scheduling cadence. Use when leveraging Pinterest as a search-driven traffic source for your business."
+  },
+  {
+    "name": "platform-community-guidelines",
+    "category": "Social Media",
+    "description": "Writes platform community guidelines with acceptable use, content policies, and enforcement procedures. Use when establishing rules for marketplace or community platforms."
+  },
+  {
+    "name": "podcast-guest-pitch",
+    "category": "Social Media",
+    "description": "Writes podcast guest pitches with topic angles, talking points, audience alignment, and one-sheet creation."
+  },
+  {
+    "name": "pr-pitch",
+    "category": "Social Media",
+    "description": "Writes media pitches to journalists with compelling angles, hooks, supporting data, and follow-up sequences. Use when a user has a newsworthy story, is launching a product, reaching a milestone, or wants to get featured in publications and podcasts."
+  },
+  {
+    "name": "product-photography-brief",
+    "category": "Social Media",
+    "description": "Creates e-commerce product photography shot lists with angles, lighting notes, and styling direction. Use this skill when a user needs to prepare for product photos, brief a photographer for e-commerce images, or plan product shots that drive conversions for their online store."
+  },
+  {
+    "name": "reddit-strategy",
+    "category": "Social Media",
+    "description": "Creates Reddit engagement plans with subreddit targeting, value-first posting guidelines, and community building tactics. Use when leveraging Reddit for traffic, research, or brand visibility."
+  },
+  {
+    "name": "short-form-video-plan",
+    "category": "Social Media",
+    "description": "Creates a 30-day short-form video content plan with hooks, formats, trending audio cues, and repurposing notes. Use when planning a month of TikToks, Reels, or YouTube Shorts."
+  },
+  {
+    "name": "social-listening-plan",
+    "category": "Social Media",
+    "description": "Designs social listening frameworks for monitoring brand mentions, competitor activity, and industry conversations. Use when setting up systematic monitoring of online conversations about your brand."
+  },
+  {
+    "name": "social-media-audit",
+    "category": "Social Media",
+    "description": "Conducts a structured social media presence audit across platforms with profile optimization checks, content analysis, engagement assessment, and actionable improvement recommendations. Use when a user wants to evaluate their social media performance, needs to identify what's working and what's not, or is preparing a social media strategy refresh."
+  },
+  {
+    "name": "social-media-calendar",
+    "category": "Social Media",
+    "description": "Creates platform-specific social media calendars with daily themes, content types, and optimal posting times. Use when planning your social content for the week or month ahead."
+  },
+  {
+    "name": "social-media-graphics",
+    "category": "Social Media",
+    "description": "Generates coordinated multi-platform social media graphics from a single creative brief using Canva. Use when a user needs consistent branded visuals across Instagram, Facebook, X/Twitter, LinkedIn, or Pinterest from one design concept."
+  },
+  {
+    "name": "social-media-policy",
+    "category": "Social Media",
+    "description": "Writes social media policies for businesses covering employee guidelines, brand voice, crisis protocols, and compliance. Use when formalizing how your business and team behave on social media."
+  },
+  {
+    "name": "social-media-strategy",
+    "category": "Social Media",
+    "description": "Creates a comprehensive social media strategy with platform selection, posting cadence, content mix, and growth targets. Use when building or overhauling your social media presence."
+  },
+  {
+    "name": "sponsor-pitch",
+    "category": "Social Media",
+    "description": "Writes sponsorship pitch decks for podcasts, newsletters, or events with audience data, pricing, and package options. Use when seeking sponsors for your media properties."
+  },
+  {
+    "name": "thread-hook-writer",
+    "category": "Social Media",
+    "description": "Writes scroll-stopping first lines for social media threads optimized by platform (X, LinkedIn, Threads). Use when you need compelling opening hooks that earn the click and the read."
+  },
+  {
+    "name": "tiktok-script",
+    "category": "Social Media",
+    "description": "Writes short-form vertical video scripts with hooks, transitions, text overlays, and trending audio suggestions. Use when you need TikTok or Reels video scripts that capture attention fast."
+  },
+  {
+    "name": "twitter-thread",
+    "category": "Social Media",
+    "description": "Creates viral-format Twitter/X threads with numbered hooks, engagement bait, and a pinned summary tweet. Use when you need to break down ideas into a compelling multi-tweet thread."
+  },
+  {
+    "name": "youtube-strategy",
+    "category": "Social Media",
+    "description": "Plans YouTube channel strategy with content pillars, upload schedule, thumbnail guidelines, and growth milestones. Use when launching or restructuring a YouTube channel for business growth."
+  }
+]
