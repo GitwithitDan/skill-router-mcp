@@ -1,0 +1,19 @@
+{
+  "name": "skill-router-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build-index": "node scripts/build-index.cjs",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "agents": "^0.17.4",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "wrangler": "^4.112.0"
+  }
+}
